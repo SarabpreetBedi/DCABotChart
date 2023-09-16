@@ -6,9 +6,10 @@ It also presents a historical graph of each DCA so you can compare against the m
 This crypto trading bot is meant to accumulate coins on Binance, and therefore has no sell strategy. This needs to be manually managed by the user.
 
 <h2>QUICKSTART:</h2>
-1. Clone the repo
-2. add your API keys in auth/auth.example.yml and rename the file to be auth.yml
-3. configure the settings on your bot in config/config.example.yml and rename the file to be config.yml
-4. Remove the reporting examples in trades/dca-tracker
+1. Clone the repo.
+2. Add your API keys or an already-added API key in auth/auth.yml.
+3. Configure the settings on your bot in config/config.yml.
+4. Remove the reporting examples in trades/dca-tracker.
+5. Show and get DCA Bot charts in trades/dca-tracker.
 
 Thanking you!
