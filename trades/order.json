@@ -1,0 +1,3682 @@
+{
+    "BTC": {
+        "orders": [
+            {
+                "symbol": "BTCUSDT",
+                "price": "26261.59000000",
+                "volume": 0,
+                "time": 1694663745.371926
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26266.36000000",
+                "volume": 0,
+                "time": 1694664142.448661
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26268.28000000",
+                "volume": 0,
+                "time": 1694664198.242179
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26266.37000000",
+                "volume": 0,
+                "time": 1694665170.86124
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26233.83000000",
+                "volume": 0,
+                "time": 1694665995.914013
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26246.37000000",
+                "volume": 0,
+                "time": 1694666380.506146
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26234.07000000",
+                "volume": 0,
+                "time": 1694666648.021558
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26187.68000000",
+                "volume": 0,
+                "time": 1694669308.738045
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26188.63000000",
+                "volume": 0,
+                "time": 1694669900.179533
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26193.07000000",
+                "volume": 0,
+                "time": 1694670064.050093
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26191.33000000",
+                "volume": 0,
+                "time": 1694670181.114326
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26184.92000000",
+                "volume": 0,
+                "time": 1694670252.244555
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26186.24000000",
+                "volume": 0,
+                "time": 1694670475.271109
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26188.98000000",
+                "volume": 0,
+                "time": 1694670510.676216
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26197.39000000",
+                "volume": 0,
+                "time": 1694670620.035512
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26193.06000000",
+                "volume": 0,
+                "time": 1694671102.865141
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26194.76000000",
+                "volume": 0,
+                "time": 1694671149.433883
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26194.41000000",
+                "volume": 0,
+                "time": 1694671274.042036
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26204.99000000",
+                "volume": 0,
+                "time": 1694671307.900246
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26210.26000000",
+                "volume": 0,
+                "time": 1694671439.723185
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26227.86000000",
+                "volume": 0,
+                "time": 1694671624.875919
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26227.88000000",
+                "volume": 0,
+                "time": 1694671713.755226
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26221.80000000",
+                "volume": 0,
+                "time": 1694671823.02487
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26221.79000000",
+                "volume": 0,
+                "time": 1694671853.382891
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26233.27000000",
+                "volume": 0,
+                "time": 1694671905.418848
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26233.59000000",
+                "volume": 0,
+                "time": 1694671971.125428
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26234.94000000",
+                "volume": 0,
+                "time": 1694672044.629449
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26255.78000000",
+                "volume": 0,
+                "time": 1694672444.348383
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26252.58000000",
+                "volume": 0,
+                "time": 1694672565.937413
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26252.58000000",
+                "volume": 0,
+                "time": 1694672680.918251
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26256.75000000",
+                "volume": 0,
+                "time": 1694672792.756389
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26260.52000000",
+                "volume": 0,
+                "time": 1694672861.657084
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26264.21000000",
+                "volume": 0,
+                "time": 1694672983.557931
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26256.61000000",
+                "volume": 0,
+                "time": 1694673033.077315
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26256.61000000",
+                "volume": 0,
+                "time": 1694673058.120076
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26257.92000000",
+                "volume": 0,
+                "time": 1694673302.060338
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26257.93000000",
+                "volume": 0,
+                "time": 1694673374.224448
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26255.84000000",
+                "volume": 0,
+                "time": 1694673440.177665
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26255.84000000",
+                "volume": 0,
+                "time": 1694673502.392766
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26258.61000000",
+                "volume": 0,
+                "time": 1694673584.822152
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26258.61000000",
+                "volume": 0,
+                "time": 1694673811.652835
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26258.61000000",
+                "volume": 0,
+                "time": 1694673968.476194
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26266.26000000",
+                "volume": 0,
+                "time": 1694674194.283217
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26253.44000000",
+                "volume": 0,
+                "time": 1694674358.842238
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26281.00000000",
+                "volume": 0,
+                "time": 1694674506.759072
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26281.00000000",
+                "volume": 0,
+                "time": 1694674532.220985
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26275.75000000",
+                "volume": 0,
+                "time": 1694674594.491133
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26280.37000000",
+                "volume": 0,
+                "time": 1694674673.835314
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26290.01000000",
+                "volume": 0,
+                "time": 1694674831.161454
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26270.00000000",
+                "volume": 0,
+                "time": 1694675076.033823
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26287.10000000",
+                "volume": 0,
+                "time": 1694675276.88875
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26284.50000000",
+                "volume": 0,
+                "time": 1694675301.33851
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26286.45000000",
+                "volume": 0,
+                "time": 1694675359.202895
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26284.49000000",
+                "volume": 0,
+                "time": 1694675496.188585
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26282.63000000",
+                "volume": 0,
+                "time": 1694675570.40148
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.25000000",
+                "volume": 0,
+                "time": 1694675980.923729
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.26000000",
+                "volume": 0,
+                "time": 1694676013.211819
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26267.18000000",
+                "volume": 0,
+                "time": 1694676352.079778
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26266.40000000",
+                "volume": 0,
+                "time": 1694676541.367892
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.87000000",
+                "volume": 0,
+                "time": 1694676753.494409
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26324.66000000",
+                "volume": 0,
+                "time": 1694679865.528106
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26315.00000000",
+                "volume": 0,
+                "time": 1694680513.57365
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26298.32000000",
+                "volume": 0,
+                "time": 1694682929.144352
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.72000000",
+                "volume": 0,
+                "time": 1694684185.156349
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26270.75000000",
+                "volume": 0,
+                "time": 1694684351.353137
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26270.76000000",
+                "volume": 0,
+                "time": 1694684357.138526
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.77000000",
+                "volume": 0,
+                "time": 1694684610.323719
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26272.07000000",
+                "volume": 0,
+                "time": 1694684719.53703
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26275.22000000",
+                "volume": 0,
+                "time": 1694684824.087052
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26275.22000000",
+                "volume": 0,
+                "time": 1694684888.635553
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26286.07000000",
+                "volume": 0,
+                "time": 1694684980.690282
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26286.07000000",
+                "volume": 0,
+                "time": 1694684987.142081
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26283.68000000",
+                "volume": 0,
+                "time": 1694685350.785314
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26283.67000000",
+                "volume": 0,
+                "time": 1694685362.891264
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.02000000",
+                "volume": 0,
+                "time": 1694685446.085484
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26277.01000000",
+                "volume": 0,
+                "time": 1694685449.435756
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26283.10000000",
+                "volume": 0,
+                "time": 1694685625.268112
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26294.35000000",
+                "volume": 0,
+                "time": 1694686132.912169
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26317.95000000",
+                "volume": 0,
+                "time": 1694686701.015831
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26302.27000000",
+                "volume": 0,
+                "time": 1694688315.360009
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26299.99000000",
+                "volume": 0,
+                "time": 1694688615.174236
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26305.75000000",
+                "volume": 0,
+                "time": 1694688952.707615
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26372.23000000",
+                "volume": 0,
+                "time": 1694691618.898929
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26366.62000000",
+                "volume": 0,
+                "time": 1694691744.875417
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26369.18000000",
+                "volume": 0,
+                "time": 1694691781.558948
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26400.00000000",
+                "volume": 0,
+                "time": 1694692020.471553
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26608.85000000",
+                "volume": 0,
+                "time": 1694701461.674681
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26651.49000000",
+                "volume": 0,
+                "time": 1694708958.215243
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26636.92000000",
+                "volume": 0,
+                "time": 1694711132.007527
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26572.74000000",
+                "volume": 0,
+                "time": 1694712307.121928
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26698.68000000",
+                "volume": 0,
+                "time": 1694715767.057615
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26686.99000000",
+                "volume": 0,
+                "time": 1694716691.595119
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26604.83000000",
+                "volume": 0,
+                "time": 1694722967.702901
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26599.66000000",
+                "volume": 0,
+                "time": 1694723268.097761
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26574.98000000",
+                "volume": 0,
+                "time": 1694724667.932499
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26647.60000000",
+                "volume": 0,
+                "time": 1694753292.186343
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26647.92000000",
+                "volume": 0,
+                "time": 1694753316.764527
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26645.54000000",
+                "volume": 0,
+                "time": 1694753433.044769
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26588.99000000",
+                "volume": 0,
+                "time": 1694757517.762594
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26588.99000000",
+                "volume": 0,
+                "time": 1694757578.202703
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26574.16000000",
+                "volume": 0,
+                "time": 1694757662.649707
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26574.10000000",
+                "volume": 0,
+                "time": 1694757763.236927
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26572.01000000",
+                "volume": 0,
+                "time": 1694758138.216263
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26605.30000000",
+                "volume": 0,
+                "time": 1694758869.037559
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26597.17000000",
+                "volume": 0,
+                "time": 1694759351.022107
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26585.46000000",
+                "volume": 0,
+                "time": 1694761401.436348
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26565.93000000",
+                "volume": 0,
+                "time": 1694761576.955939
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26572.58000000",
+                "volume": 0,
+                "time": 1694761685.371691
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26560.01000000",
+                "volume": 0,
+                "time": 1694762676.955646
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26569.23000000",
+                "volume": 0,
+                "time": 1694762828.078323
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26579.46000000",
+                "volume": 0,
+                "time": 1694762907.589417
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26578.34000000",
+                "volume": 0,
+                "time": 1694764096.429094
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26593.05000000",
+                "volume": 0,
+                "time": 1694769642.022253
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26580.11000000",
+                "volume": 0,
+                "time": 1694769859.77657
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26584.24000000",
+                "volume": 0,
+                "time": 1694769971.931403
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26584.24000000",
+                "volume": 0,
+                "time": 1694769977.359952
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26632.64000000",
+                "volume": 0,
+                "time": 1694771070.915691
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26604.78000000",
+                "volume": 0,
+                "time": 1694772064.463873
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26604.79000000",
+                "volume": 0,
+                "time": 1694772074.09715
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26604.70000000",
+                "volume": 0,
+                "time": 1694772108.140618
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26599.87000000",
+                "volume": 0,
+                "time": 1694772291.921499
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26598.93000000",
+                "volume": 0,
+                "time": 1694772319.130477
+            },
+            {
+                "symbol": "BTCUSDT",
+                "price": "26608.39000000",
+                "volume": 0,
+                "time": 1694772465.781343
+            }
+        ]
+    },
+    "ETH": {
+        "orders": [
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.82000000",
+                "volume": 0,
+                "time": 1694663746.405015
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.52000000",
+                "volume": 0,
+                "time": 1694664143.307661
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.78000000",
+                "volume": 0,
+                "time": 1694664198.700808
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.08000000",
+                "volume": 0,
+                "time": 1694665171.325746
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.48000000",
+                "volume": 0,
+                "time": 1694665996.563573
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.73000000",
+                "volume": 0,
+                "time": 1694666381.568373
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.39000000",
+                "volume": 0,
+                "time": 1694666648.472275
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.31000000",
+                "volume": 0,
+                "time": 1694669309.459911
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.78000000",
+                "volume": 0,
+                "time": 1694669901.213601
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.36000000",
+                "volume": 0,
+                "time": 1694670064.802283
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.29000000",
+                "volume": 0,
+                "time": 1694670182.580578
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.41000000",
+                "volume": 0,
+                "time": 1694670252.849987
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.75000000",
+                "volume": 0,
+                "time": 1694670476.522358
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.73000000",
+                "volume": 0,
+                "time": 1694670511.575199
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.29000000",
+                "volume": 0,
+                "time": 1694670620.963895
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.50000000",
+                "volume": 0,
+                "time": 1694671103.888805
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.78000000",
+                "volume": 0,
+                "time": 1694671150.120045
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1613.92000000",
+                "volume": 0,
+                "time": 1694671274.922393
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.46000000",
+                "volume": 0,
+                "time": 1694671308.947855
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1614.98000000",
+                "volume": 0,
+                "time": 1694671440.357974
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1615.90000000",
+                "volume": 0,
+                "time": 1694671625.493357
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1615.38000000",
+                "volume": 0,
+                "time": 1694671714.517156
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1615.13000000",
+                "volume": 0,
+                "time": 1694671823.632015
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1615.12000000",
+                "volume": 0,
+                "time": 1694671854.115669
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1615.76000000",
+                "volume": 0,
+                "time": 1694671906.054238
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.00000000",
+                "volume": 0,
+                "time": 1694671972.15822
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.00000000",
+                "volume": 0,
+                "time": 1694672045.242103
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.00000000",
+                "volume": 0,
+                "time": 1694672445.236561
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.98000000",
+                "volume": 0,
+                "time": 1694672566.849678
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.79000000",
+                "volume": 0,
+                "time": 1694672681.681087
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.20000000",
+                "volume": 0,
+                "time": 1694672793.698402
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.34000000",
+                "volume": 0,
+                "time": 1694672862.418279
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.61000000",
+                "volume": 0,
+                "time": 1694672984.202628
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.20000000",
+                "volume": 0,
+                "time": 1694673034.148729
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.11000000",
+                "volume": 0,
+                "time": 1694673059.04169
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.45000000",
+                "volume": 0,
+                "time": 1694673302.631196
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.48000000",
+                "volume": 0,
+                "time": 1694673374.680951
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.44000000",
+                "volume": 0,
+                "time": 1694673440.771071
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.45000000",
+                "volume": 0,
+                "time": 1694673503.156686
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.44000000",
+                "volume": 0,
+                "time": 1694673585.919156
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.74000000",
+                "volume": 0,
+                "time": 1694673812.232746
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.83000000",
+                "volume": 0,
+                "time": 1694673969.068079
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.24000000",
+                "volume": 0,
+                "time": 1694674194.874182
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.56000000",
+                "volume": 0,
+                "time": 1694674359.466577
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.48000000",
+                "volume": 0,
+                "time": 1694674507.348347
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.28000000",
+                "volume": 0,
+                "time": 1694674532.878363
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.90000000",
+                "volume": 0,
+                "time": 1694674595.874966
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.99000000",
+                "volume": 0,
+                "time": 1694674674.418157
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.67000000",
+                "volume": 0,
+                "time": 1694674832.013595
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.76000000",
+                "volume": 0,
+                "time": 1694675076.665229
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.62000000",
+                "volume": 0,
+                "time": 1694675277.544246
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.62000000",
+                "volume": 0,
+                "time": 1694675301.985791
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.99000000",
+                "volume": 0,
+                "time": 1694675359.832243
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.36000000",
+                "volume": 0,
+                "time": 1694675496.812812
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.34000000",
+                "volume": 0,
+                "time": 1694675571.426642
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.77000000",
+                "volume": 0,
+                "time": 1694675981.43412
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.77000000",
+                "volume": 0,
+                "time": 1694676013.985648
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.06000000",
+                "volume": 0,
+                "time": 1694676352.715973
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1616.48000000",
+                "volume": 0,
+                "time": 1694676542.420655
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1617.22000000",
+                "volume": 0,
+                "time": 1694676754.146114
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.10000000",
+                "volume": 0,
+                "time": 1694679866.160847
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.28000000",
+                "volume": 0,
+                "time": 1694680514.093018
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.87000000",
+                "volume": 0,
+                "time": 1694682930.231148
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.42000000",
+                "volume": 0,
+                "time": 1694684186.226754
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.08000000",
+                "volume": 0,
+                "time": 1694684352.061272
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.07000000",
+                "volume": 0,
+                "time": 1694684357.789142
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.02000000",
+                "volume": 0,
+                "time": 1694684610.952484
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.59000000",
+                "volume": 0,
+                "time": 1694684720.345956
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.84000000",
+                "volume": 0,
+                "time": 1694684824.697988
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.83000000",
+                "volume": 0,
+                "time": 1694684889.319454
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.93000000",
+                "volume": 0,
+                "time": 1694684981.772141
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.93000000",
+                "volume": 0,
+                "time": 1694684988.546421
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.47000000",
+                "volume": 0,
+                "time": 1694685351.508855
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.47000000",
+                "volume": 0,
+                "time": 1694685363.673202
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.47000000",
+                "volume": 0,
+                "time": 1694685446.604759
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.47000000",
+                "volume": 0,
+                "time": 1694685450.23514
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1618.64000000",
+                "volume": 0,
+                "time": 1694685626.369009
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.36000000",
+                "volume": 0,
+                "time": 1694686133.977816
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.20000000",
+                "volume": 0,
+                "time": 1694686701.921841
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.66000000",
+                "volume": 0,
+                "time": 1694688315.930938
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1619.66000000",
+                "volume": 0,
+                "time": 1694688615.792975
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1620.53000000",
+                "volume": 0,
+                "time": 1694688953.388799
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1623.17000000",
+                "volume": 0,
+                "time": 1694691619.512954
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1622.64000000",
+                "volume": 0,
+                "time": 1694691745.494318
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1622.85000000",
+                "volume": 0,
+                "time": 1694691782.199538
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1624.54000000",
+                "volume": 0,
+                "time": 1694692021.164813
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1627.68000000",
+                "volume": 0,
+                "time": 1694701462.323637
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1632.79000000",
+                "volume": 0,
+                "time": 1694708959.013075
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1633.65000000",
+                "volume": 0,
+                "time": 1694711132.680341
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1632.33000000",
+                "volume": 0,
+                "time": 1694712307.751417
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1636.91000000",
+                "volume": 0,
+                "time": 1694715768.110498
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1636.13000000",
+                "volume": 0,
+                "time": 1694716692.380351
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1632.47000000",
+                "volume": 0,
+                "time": 1694722968.50363
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1631.85000000",
+                "volume": 0,
+                "time": 1694723268.767259
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.07000000",
+                "volume": 0,
+                "time": 1694724669.043257
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1633.62000000",
+                "volume": 0,
+                "time": 1694753293.247669
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1633.79000000",
+                "volume": 0,
+                "time": 1694753317.788016
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1633.59000000",
+                "volume": 0,
+                "time": 1694753433.910411
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1630.57000000",
+                "volume": 0,
+                "time": 1694757518.438349
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1630.60000000",
+                "volume": 0,
+                "time": 1694757578.709642
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.93000000",
+                "volume": 0,
+                "time": 1694757663.729406
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.84000000",
+                "volume": 0,
+                "time": 1694757763.903355
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.47000000",
+                "volume": 0,
+                "time": 1694758139.00411
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1631.58000000",
+                "volume": 0,
+                "time": 1694758869.67787
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1631.34000000",
+                "volume": 0,
+                "time": 1694759352.069174
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.75000000",
+                "volume": 0,
+                "time": 1694761401.916759
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.18000000",
+                "volume": 0,
+                "time": 1694761577.445867
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.91000000",
+                "volume": 0,
+                "time": 1694761686.020511
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1627.87000000",
+                "volume": 0,
+                "time": 1694762677.597623
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.54000000",
+                "volume": 0,
+                "time": 1694762830.196022
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.79000000",
+                "volume": 0,
+                "time": 1694762908.228557
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.27000000",
+                "volume": 0,
+                "time": 1694764097.505404
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1627.18000000",
+                "volume": 0,
+                "time": 1694769642.792092
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1626.86000000",
+                "volume": 0,
+                "time": 1694769860.438113
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1626.87000000",
+                "volume": 0,
+                "time": 1694769972.580318
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1626.86000000",
+                "volume": 0,
+                "time": 1694769979.052511
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1629.51000000",
+                "volume": 0,
+                "time": 1694771071.545496
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.44000000",
+                "volume": 0,
+                "time": 1694772065.127758
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.44000000",
+                "volume": 0,
+                "time": 1694772074.970118
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.29000000",
+                "volume": 0,
+                "time": 1694772108.78193
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.03000000",
+                "volume": 0,
+                "time": 1694772292.961036
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.03000000",
+                "volume": 0,
+                "time": 1694772319.692837
+            },
+            {
+                "symbol": "ETHUSDT",
+                "price": "1628.53000000",
+                "volume": 0,
+                "time": 1694772466.854486
+            }
+        ]
+    },
+    "DOT": {
+        "orders": [
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00400000",
+                "volume": 3,
+                "time": 1694663747.405777
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00600000",
+                "volume": 3,
+                "time": 1694664144.036628
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00500000",
+                "volume": 3,
+                "time": 1694664199.690339
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00300000",
+                "volume": 3,
+                "time": 1694665172.734281
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99600000",
+                "volume": 3,
+                "time": 1694665998.002626
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694666382.615551
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99500000",
+                "volume": 3,
+                "time": 1694666648.933052
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98400000",
+                "volume": 3,
+                "time": 1694669310.469706
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98200000",
+                "volume": 3,
+                "time": 1694669901.802326
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98300000",
+                "volume": 3,
+                "time": 1694670065.388488
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98200000",
+                "volume": 3,
+                "time": 1694670183.566386
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98000000",
+                "volume": 3,
+                "time": 1694670253.432429
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98100000",
+                "volume": 3,
+                "time": 1694670477.110997
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98000000",
+                "volume": 3,
+                "time": 1694670512.151346
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98100000",
+                "volume": 3,
+                "time": 1694670621.970342
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.97900000",
+                "volume": 3,
+                "time": 1694671104.604296
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98200000",
+                "volume": 3,
+                "time": 1694671150.783364
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.97800000",
+                "volume": 3,
+                "time": 1694671275.358028
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98000000",
+                "volume": 3,
+                "time": 1694671309.680912
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98300000",
+                "volume": 3,
+                "time": 1694671441.503842
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98000000",
+                "volume": 3,
+                "time": 1694671626.472801
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98800000",
+                "volume": 3,
+                "time": 1694671715.794241
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99100000",
+                "volume": 3,
+                "time": 1694671824.202189
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.98900000",
+                "volume": 3,
+                "time": 1694671854.700712
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99300000",
+                "volume": 3,
+                "time": 1694671906.761091
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99500000",
+                "volume": 3,
+                "time": 1694671972.874756
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99500000",
+                "volume": 3,
+                "time": 1694672045.824608
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694672445.826857
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694672567.455965
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694672682.580697
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99900000",
+                "volume": 3,
+                "time": 1694672794.436976
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00000000",
+                "volume": 3,
+                "time": 1694672863.147315
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694672984.781899
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99600000",
+                "volume": 3,
+                "time": 1694673035.268554
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694673059.675791
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694673303.265296
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694673375.47008
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99500000",
+                "volume": 3,
+                "time": 1694673441.391398
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694673503.671598
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694673586.569156
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694673812.867548
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694673969.708596
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694674195.491853
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99400000",
+                "volume": 3,
+                "time": 1694674360.557328
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99800000",
+                "volume": 3,
+                "time": 1694674507.945136
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99700000",
+                "volume": 3,
+                "time": 1694674533.915634
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "3.99900000",
+                "volume": 3,
+                "time": 1694674596.575621
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00100000",
+                "volume": 3,
+                "time": 1694674675.367715
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00200000",
+                "volume": 3,
+                "time": 1694674832.770748
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00100000",
+                "volume": 3,
+                "time": 1694675077.624124
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00100000",
+                "volume": 3,
+                "time": 1694675278.411773
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00100000",
+                "volume": 3,
+                "time": 1694675302.724134
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00200000",
+                "volume": 3,
+                "time": 1694675360.858558
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00400000",
+                "volume": 3,
+                "time": 1694675497.893017
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00100000",
+                "volume": 3,
+                "time": 1694675572.047218
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00900000",
+                "volume": 3,
+                "time": 1694675982.213239
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00900000",
+                "volume": 3,
+                "time": 1694676014.99941
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.01400000",
+                "volume": 3,
+                "time": 1694676353.306563
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.01600000",
+                "volume": 3,
+                "time": 1694676542.949071
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.01600000",
+                "volume": 3,
+                "time": 1694676755.441765
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00900000",
+                "volume": 3,
+                "time": 1694679866.762437
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.00900000",
+                "volume": 3,
+                "time": 1694680514.685441
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694682930.845002
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02800000",
+                "volume": 3,
+                "time": 1694684187.520006
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694684353.113434
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694684358.415195
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694684611.975701
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03000000",
+                "volume": 3,
+                "time": 1694684720.853298
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694684825.506069
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694684890.393008
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694684982.300033
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694684989.157073
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694685352.319826
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02900000",
+                "volume": 3,
+                "time": 1694685365.040782
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02700000",
+                "volume": 3,
+                "time": 1694685447.214314
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02700000",
+                "volume": 3,
+                "time": 1694685450.806822
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.02700000",
+                "volume": 3,
+                "time": 1694685627.410895
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03300000",
+                "volume": 3,
+                "time": 1694686134.570612
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03500000",
+                "volume": 3,
+                "time": 1694686702.912139
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03000000",
+                "volume": 3,
+                "time": 1694688316.414505
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03000000",
+                "volume": 3,
+                "time": 1694688616.537826
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694688954.119802
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03400000",
+                "volume": 3,
+                "time": 1694691620.250244
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03100000",
+                "volume": 3,
+                "time": 1694691746.080456
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03300000",
+                "volume": 3,
+                "time": 1694691782.775434
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03500000",
+                "volume": 3,
+                "time": 1694692022.458874
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.04200000",
+                "volume": 3,
+                "time": 1694701463.701268
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.03800000",
+                "volume": 3,
+                "time": 1694708959.757054
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.05200000",
+                "volume": 3,
+                "time": 1694711133.316002
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.04100000",
+                "volume": 3,
+                "time": 1694712308.777916
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.06300000",
+                "volume": 3,
+                "time": 1694715768.747202
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.06800000",
+                "volume": 3,
+                "time": 1694716693.009764
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.06700000",
+                "volume": 3,
+                "time": 1694722969.122434
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.06600000",
+                "volume": 3,
+                "time": 1694723269.813899
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.05900000",
+                "volume": 3,
+                "time": 1694724669.666606
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.09100000",
+                "volume": 3,
+                "time": 1694753293.992881
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.09000000",
+                "volume": 3,
+                "time": 1694753318.821364
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08800000",
+                "volume": 3,
+                "time": 1694753434.865417
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08900000",
+                "volume": 3,
+                "time": 1694757518.947428
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08900000",
+                "volume": 3,
+                "time": 1694757579.478237
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.09100000",
+                "volume": 3,
+                "time": 1694757664.337253
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.09400000",
+                "volume": 3,
+                "time": 1694757764.643052
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08700000",
+                "volume": 3,
+                "time": 1694758139.613764
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08900000",
+                "volume": 3,
+                "time": 1694758870.285815
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08800000",
+                "volume": 3,
+                "time": 1694759352.685247
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07300000",
+                "volume": 3,
+                "time": 1694761402.830444
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07200000",
+                "volume": 3,
+                "time": 1694761577.935578
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07200000",
+                "volume": 3,
+                "time": 1694761687.040796
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07000000",
+                "volume": 3,
+                "time": 1694762678.494468
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07400000",
+                "volume": 3,
+                "time": 1694762830.827905
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07700000",
+                "volume": 3,
+                "time": 1694762908.851955
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.06800000",
+                "volume": 3,
+                "time": 1694764098.27295
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08100000",
+                "volume": 3,
+                "time": 1694769643.826512
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07600000",
+                "volume": 3,
+                "time": 1694769861.495457
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07700000",
+                "volume": 3,
+                "time": 1694769973.642602
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.07700000",
+                "volume": 3,
+                "time": 1694769980.139691
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08400000",
+                "volume": 3,
+                "time": 1694771072.159776
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08900000",
+                "volume": 3,
+                "time": 1694772065.751078
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08900000",
+                "volume": 3,
+                "time": 1694772076.285795
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08600000",
+                "volume": 3,
+                "time": 1694772109.600241
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08500000",
+                "volume": 3,
+                "time": 1694772320.297097
+            },
+            {
+                "symbol": "DOTUSDT",
+                "price": "4.08600000",
+                "volume": 3,
+                "time": 1694772467.874216
+            }
+        ]
+    },
+    "SOL": {
+        "orders": [
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.92000000",
+                "volume": 0,
+                "time": 1694663748.888483
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.91000000",
+                "volume": 0,
+                "time": 1694664145.079996
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.91000000",
+                "volume": 0,
+                "time": 1694664200.741391
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.86000000",
+                "volume": 0,
+                "time": 1694665174.052482
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.78000000",
+                "volume": 0,
+                "time": 1694665999.088285
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.81000000",
+                "volume": 0,
+                "time": 1694666383.828767
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694666649.954991
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694669311.509897
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694669902.799232
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694670066.373773
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694670184.547866
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694670254.42115
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694670478.391681
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.68000000",
+                "volume": 0,
+                "time": 1694670513.151808
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694670623.276034
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694671105.588464
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.66000000",
+                "volume": 0,
+                "time": 1694671152.361969
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694671275.80803
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694671310.666169
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694671442.529538
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694671627.744966
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694671716.776086
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694671825.213719
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694671855.704589
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.66000000",
+                "volume": 0,
+                "time": 1694671908.039448
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.67000000",
+                "volume": 0,
+                "time": 1694671973.88473
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694672047.245559
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694672446.988858
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694672568.734935
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.74000000",
+                "volume": 0,
+                "time": 1694672683.605677
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.74000000",
+                "volume": 0,
+                "time": 1694672796.095382
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.77000000",
+                "volume": 0,
+                "time": 1694672864.206355
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.75000000",
+                "volume": 0,
+                "time": 1694672986.082583
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.74000000",
+                "volume": 0,
+                "time": 1694673036.414814
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694673061.216728
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694673304.434036
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694673376.465139
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694673442.406859
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.71000000",
+                "volume": 0,
+                "time": 1694673504.680404
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.71000000",
+                "volume": 0,
+                "time": 1694673587.77339
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694673813.875667
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694673970.886859
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.75000000",
+                "volume": 0,
+                "time": 1694674196.790752
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694674361.627816
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694674509.455707
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694674535.224742
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.71000000",
+                "volume": 0,
+                "time": 1694674597.464724
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.70000000",
+                "volume": 0,
+                "time": 1694674676.399361
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.74000000",
+                "volume": 0,
+                "time": 1694674834.092819
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694675078.716597
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694675279.560585
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.71000000",
+                "volume": 0,
+                "time": 1694675303.735467
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694675361.87994
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694675498.798659
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.71000000",
+                "volume": 0,
+                "time": 1694675573.198072
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.68000000",
+                "volume": 0,
+                "time": 1694675983.225794
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.68000000",
+                "volume": 0,
+                "time": 1694676016.303844
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.68000000",
+                "volume": 0,
+                "time": 1694676354.323182
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.70000000",
+                "volume": 0,
+                "time": 1694676543.96775
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.78000000",
+                "volume": 0,
+                "time": 1694676756.473235
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.80000000",
+                "volume": 0,
+                "time": 1694679867.769562
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.81000000",
+                "volume": 0,
+                "time": 1694680515.729235
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.72000000",
+                "volume": 0,
+                "time": 1694682932.028325
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.60000000",
+                "volume": 0,
+                "time": 1694684188.578672
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.61000000",
+                "volume": 0,
+                "time": 1694684354.387376
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.61000000",
+                "volume": 0,
+                "time": 1694684359.708673
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694684612.99923
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.62000000",
+                "volume": 0,
+                "time": 1694684722.145781
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694684826.569086
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.64000000",
+                "volume": 0,
+                "time": 1694684891.437401
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.66000000",
+                "volume": 0,
+                "time": 1694684984.022284
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.66000000",
+                "volume": 0,
+                "time": 1694684990.255076
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694685353.422531
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694685365.589698
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.63000000",
+                "volume": 0,
+                "time": 1694685448.235982
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.63000000",
+                "volume": 0,
+                "time": 1694685452.136673
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.65000000",
+                "volume": 0,
+                "time": 1694685628.062008
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.69000000",
+                "volume": 0,
+                "time": 1694686135.613091
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694686704.311026
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.73000000",
+                "volume": 0,
+                "time": 1694688317.713497
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.68000000",
+                "volume": 0,
+                "time": 1694688617.638541
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.76000000",
+                "volume": 0,
+                "time": 1694688955.130742
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.84000000",
+                "volume": 0,
+                "time": 1694691621.250731
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.82000000",
+                "volume": 0,
+                "time": 1694691747.117051
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.84000000",
+                "volume": 0,
+                "time": 1694691783.777145
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.85000000",
+                "volume": 0,
+                "time": 1694692023.752365
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.91000000",
+                "volume": 0,
+                "time": 1694701465.022548
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.01000000",
+                "volume": 0,
+                "time": 1694708961.163307
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.07000000",
+                "volume": 0,
+                "time": 1694711134.397345
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.98000000",
+                "volume": 0,
+                "time": 1694712309.82082
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.98000000",
+                "volume": 0,
+                "time": 1694715769.77884
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.04000000",
+                "volume": 0,
+                "time": 1694716694.053955
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.93000000",
+                "volume": 0,
+                "time": 1694722970.459463
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.94000000",
+                "volume": 0,
+                "time": 1694723270.301547
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "18.93000000",
+                "volume": 0,
+                "time": 1694724670.741516
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.19000000",
+                "volume": 0,
+                "time": 1694753294.59285
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.18000000",
+                "volume": 0,
+                "time": 1694753319.711566
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.17000000",
+                "volume": 0,
+                "time": 1694753435.718045
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.21000000",
+                "volume": 0,
+                "time": 1694757520.246568
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.21000000",
+                "volume": 0,
+                "time": 1694757580.805518
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.18000000",
+                "volume": 0,
+                "time": 1694757665.798332
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.17000000",
+                "volume": 0,
+                "time": 1694757765.64628
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.16000000",
+                "volume": 0,
+                "time": 1694758140.678119
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.18000000",
+                "volume": 0,
+                "time": 1694758871.314705
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.14000000",
+                "volume": 0,
+                "time": 1694759353.724836
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.11000000",
+                "volume": 0,
+                "time": 1694761403.852963
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.08000000",
+                "volume": 0,
+                "time": 1694761578.959447
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.10000000",
+                "volume": 0,
+                "time": 1694761688.07026
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.05000000",
+                "volume": 0,
+                "time": 1694762679.547287
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.07000000",
+                "volume": 0,
+                "time": 1694762831.439938
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.07000000",
+                "volume": 0,
+                "time": 1694762909.87251
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.07000000",
+                "volume": 0,
+                "time": 1694764099.576807
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.14000000",
+                "volume": 0,
+                "time": 1694769645.139681
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.13000000",
+                "volume": 0,
+                "time": 1694769862.525843
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.12000000",
+                "volume": 0,
+                "time": 1694769974.951028
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.12000000",
+                "volume": 0,
+                "time": 1694769981.695208
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.15000000",
+                "volume": 0,
+                "time": 1694771073.326229
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.15000000",
+                "volume": 0,
+                "time": 1694772066.780511
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.15000000",
+                "volume": 0,
+                "time": 1694772077.048309
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.14000000",
+                "volume": 0,
+                "time": 1694772111.154147
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.09000000",
+                "volume": 0,
+                "time": 1694772321.709951
+            },
+            {
+                "symbol": "SOLUSDT",
+                "price": "19.12000000",
+                "volume": 0,
+                "time": 1694772468.893701
+            }
+        ]
+    },
+    "XLM": {
+        "orders": [
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694663750.291172
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694664146.049233
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694664202.033134
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11990000",
+                "volume": 125,
+                "time": 1694665175.080571
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11980000",
+                "volume": 125,
+                "time": 1694666000.520954
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11980000",
+                "volume": 125,
+                "time": 1694666385.156919
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11960000",
+                "volume": 125,
+                "time": 1694666650.979556
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11880000",
+                "volume": 126,
+                "time": 1694669313.230247
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694669904.132757
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694670067.681457
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11880000",
+                "volume": 126,
+                "time": 1694670185.838856
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694670255.854423
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694670479.834964
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694670514.191847
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694670624.358972
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694671106.912526
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694671153.378686
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671276.827322
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671311.420419
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671443.816831
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671629.05744
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671717.537571
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671826.652818
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671857.01173
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694671908.802764
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694671975.267018
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694672047.859577
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694672448.025664
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694672570.04093
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694672684.928287
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694672797.432297
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694672865.253181
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694672987.387915
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694673036.912494
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673062.534836
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673305.976634
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673377.733334
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673443.279867
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673505.954522
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694673589.368021
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694673814.766954
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694673972.28915
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694674198.118104
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694674362.674617
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694674510.79957
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694674536.566632
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694674598.771691
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694674677.984095
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11880000",
+                "volume": 126,
+                "time": 1694674834.634389
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694675079.79028
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694675281.164278
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694675304.80714
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11870000",
+                "volume": 126,
+                "time": 1694675363.061131
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694675500.317756
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694675574.242805
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694675984.548983
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694676017.327595
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694676355.678359
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694676544.735241
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694676757.650811
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11890000",
+                "volume": 126,
+                "time": 1694679868.552284
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11910000",
+                "volume": 125,
+                "time": 1694680517.1646
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11860000",
+                "volume": 126,
+                "time": 1694682933.503588
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694684190.277525
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694684355.578907
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694684360.77669
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694684614.382116
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11820000",
+                "volume": 126,
+                "time": 1694684723.536053
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694684827.980422
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694684892.794993
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694684985.50699
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694684991.445713
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694685354.990201
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694685366.763021
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11820000",
+                "volume": 126,
+                "time": 1694685453.475844
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694685629.460876
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11820000",
+                "volume": 126,
+                "time": 1694686137.255563
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694686705.896362
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11830000",
+                "volume": 126,
+                "time": 1694688319.044002
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694688618.842068
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11840000",
+                "volume": 126,
+                "time": 1694688956.193145
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694691622.296516
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694691747.875746
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694691785.073734
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11850000",
+                "volume": 126,
+                "time": 1694692025.082996
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11960000",
+                "volume": 125,
+                "time": 1694701466.450801
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11920000",
+                "volume": 125,
+                "time": 1694708963.413316
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11910000",
+                "volume": 125,
+                "time": 1694711135.829198
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11900000",
+                "volume": 126,
+                "time": 1694712311.206918
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694715771.170342
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12010000",
+                "volume": 124,
+                "time": 1694716695.484514
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11930000",
+                "volume": 125,
+                "time": 1694722971.338773
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11920000",
+                "volume": 125,
+                "time": 1694723271.724206
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11910000",
+                "volume": 125,
+                "time": 1694724672.116508
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12090000",
+                "volume": 124,
+                "time": 1694753295.955215
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12140000",
+                "volume": 123,
+                "time": 1694753321.035199
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12160000",
+                "volume": 123,
+                "time": 1694753436.584818
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12070000",
+                "volume": 124,
+                "time": 1694757521.590356
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12060000",
+                "volume": 124,
+                "time": 1694757582.126703
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12050000",
+                "volume": 124,
+                "time": 1694757667.13666
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12040000",
+                "volume": 124,
+                "time": 1694757766.971355
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12030000",
+                "volume": 124,
+                "time": 1694758142.013158
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12030000",
+                "volume": 124,
+                "time": 1694758871.845178
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12010000",
+                "volume": 124,
+                "time": 1694759354.229528
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694761404.909471
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12010000",
+                "volume": 124,
+                "time": 1694761580.160236
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12020000",
+                "volume": 124,
+                "time": 1694761689.425653
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11990000",
+                "volume": 125,
+                "time": 1694762680.57879
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694762832.777274
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12010000",
+                "volume": 124,
+                "time": 1694762911.202386
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.11990000",
+                "volume": 125,
+                "time": 1694764100.422792
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694769646.278759
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694769863.932962
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12000000",
+                "volume": 125,
+                "time": 1694769982.389515
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12070000",
+                "volume": 124,
+                "time": 1694771074.802983
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12070000",
+                "volume": 124,
+                "time": 1694772067.858794
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12050000",
+                "volume": 124,
+                "time": 1694772078.509343
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12050000",
+                "volume": 124,
+                "time": 1694772112.351195
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12030000",
+                "volume": 124,
+                "time": 1694772322.878233
+            },
+            {
+                "symbol": "XLMUSDT",
+                "price": "0.12050000",
+                "volume": 124,
+                "time": 1694772469.990658
+            }
+        ]
+    }
+}

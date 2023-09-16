@@ -1,0 +1,1674 @@
+INFO: 2023-09-12 22:36:48,704 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-12 22:36:48,704 | FILE: main.py:31 | MESSAGE: No order file found, creating new file
+INFO: 2023-09-12 22:37:22,403 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-12 22:37:22,403 | FILE: main.py:31 | MESSAGE: No order file found, creating new file
+INFO: 2023-09-12 22:37:23,016 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:37:23,017 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-12 22:37:23.017582
+INFO: 2023-09-12 22:37:23,785 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:37:23,786 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-12 22:37:23.786228
+INFO: 2023-09-12 22:37:24,300 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:37:24,301 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-12 22:37:24.301598
+INFO: 2023-09-12 22:37:25,524 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:37:25,524 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-12 22:37:25.524132
+INFO: 2023-09-12 22:37:26,964 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:37:26,964 | FILE: main.py:77 | MESSAGE: Order created with 121 on XLM at 2023-09-12 22:37:26.964599
+INFO: 2023-09-12 22:37:26,965 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-12 22:37:30,923 | FILE: email_service.py:25 | MESSAGE: (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor m9-20020a170902768900b001c0a414695dsm8631105pll.62 - gsmtp')
+INFO: 2023-09-12 22:41:54,952 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-12 22:41:55,456 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:41:55,456 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-12 22:41:55.456429
+INFO: 2023-09-12 22:41:56,377 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:41:56,377 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-12 22:41:56.377611
+INFO: 2023-09-12 22:41:58,877 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:41:58,877 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-12 22:41:58.877392
+INFO: 2023-09-12 22:41:59,399 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:41:59,399 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-12 22:41:59.399071
+INFO: 2023-09-12 22:42:00,962 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-12 22:42:00,962 | FILE: main.py:77 | MESSAGE: Order created with 121 on XLM at 2023-09-12 22:42:00.962823
+INFO: 2023-09-12 22:42:00,964 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-12 22:42:03,707 | FILE: email_service.py:25 | MESSAGE: (534, b'5.7.9 Application-specific password required. Learn more at\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor p13-20020a63ab0d000000b0057749dc8d3asm5519853pgf.47 - gsmtp')
+INFO: 2023-09-14 07:45:30,173 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 07:45:30,808 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 07:45:30,808 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 07:45:30.808868
+INFO: 2023-09-14 07:45:31,262 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 07:45:31,262 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 07:45:31.262056
+INFO: 2023-09-14 07:45:32,257 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 07:45:32,257 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 07:45:32.257808
+INFO: 2023-09-14 07:45:33,290 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 07:45:33,290 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 07:45:33.290459
+INFO: 2023-09-14 07:45:34,009 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 07:45:34,009 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 07:45:34.009509
+INFO: 2023-09-14 07:45:34,011 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 07:45:37,026 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jf3-20020a170903268300b001b83dc8649dsm283689plb.250 - gsmtp')
+INFO: 2023-09-14 09:18:02,916 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:18:03,825 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:18:03,825 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:18:03.825941
+INFO: 2023-09-14 09:18:04,568 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:18:04,568 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:18:04.568650
+INFO: 2023-09-14 09:18:05,828 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:18:05,828 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:18:05.828082
+INFO: 2023-09-14 09:18:06,302 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:18:06,302 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:18:06.302632
+INFO: 2023-09-14 09:18:07,567 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:18:07,567 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:18:07.567183
+INFO: 2023-09-14 09:18:07,575 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:18:10,586 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i15-20020a17090332cf00b001ac7f583f72sm378564plr.209 - gsmtp')
+INFO: 2023-09-14 09:20:29,719 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:20:31,011 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:20:31,011 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:20:31.011883
+INFO: 2023-09-14 09:20:32,008 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:20:32,008 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:20:32.008279
+INFO: 2023-09-14 09:20:33,017 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:20:33,017 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:20:33.017443
+INFO: 2023-09-14 09:20:34,321 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:20:34,321 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:20:34.321125
+INFO: 2023-09-14 09:20:35,607 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:20:35,607 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:20:35.607835
+INFO: 2023-09-14 09:20:35,607 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:20:38,355 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h12-20020a170902f54c00b001bf8779e051sm381152plf.289 - gsmtp')
+INFO: 2023-09-14 09:25:44,584 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:25:44,584 | FILE: main.py:31 | MESSAGE: No order file found, creating new file
+INFO: 2023-09-14 09:25:45,371 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:25:45,371 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:25:45.371926
+INFO: 2023-09-14 09:25:46,405 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:25:46,405 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:25:46.405015
+INFO: 2023-09-14 09:25:47,405 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:25:47,405 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:25:47.405777
+INFO: 2023-09-14 09:25:48,888 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:25:48,888 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:25:48.888483
+INFO: 2023-09-14 09:25:50,291 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:25:50,291 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:25:50.291172
+INFO: 2023-09-14 09:25:50,291 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:25:53,109 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials k2-20020aa790c2000000b006875df4773fsm310156pfk.163 - gsmtp')
+INFO: 2023-09-14 09:32:21,832 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:32:22,448 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:32:22,448 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:32:22.448661
+INFO: 2023-09-14 09:32:23,307 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:32:23,307 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:32:23.307784
+INFO: 2023-09-14 09:32:24,036 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:32:24,036 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:32:24.036628
+INFO: 2023-09-14 09:32:25,079 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:32:25,079 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:32:25.079996
+INFO: 2023-09-14 09:32:26,049 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:32:26,049 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:32:26.049233
+INFO: 2023-09-14 09:32:26,049 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:32:28,860 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o10-20020a170902d4ca00b001bf3bdbceb5sm399840plg.134 - gsmtp')
+INFO: 2023-09-14 09:33:17,637 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:33:18,242 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:33:18,242 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:33:18.242179
+INFO: 2023-09-14 09:33:18,700 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:33:18,700 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:33:18.700808
+INFO: 2023-09-14 09:33:19,690 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:33:19,690 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:33:19.690339
+INFO: 2023-09-14 09:33:20,741 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:33:20,741 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:33:20.741391
+INFO: 2023-09-14 09:33:22,033 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:33:22,033 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:33:22.033134
+INFO: 2023-09-14 09:33:22,048 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:33:24,775 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n10-20020a170902e54a00b001bf10059251sm397468plf.239 - gsmtp')
+INFO: 2023-09-14 09:49:29,832 | FILE: main.py:96 | MESSAGE: working...
+INFO: 2023-09-14 09:49:30,861 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:49:30,861 | FILE: main.py:77 | MESSAGE: Order created with 0 on BTC at 2023-09-14 09:49:30.861240
+INFO: 2023-09-14 09:49:31,325 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:49:31,325 | FILE: main.py:77 | MESSAGE: Order created with 0 on ETH at 2023-09-14 09:49:31.325746
+INFO: 2023-09-14 09:49:32,734 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:49:32,734 | FILE: main.py:77 | MESSAGE: Order created with 3 on DOT at 2023-09-14 09:49:32.734281
+INFO: 2023-09-14 09:49:34,052 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:49:34,068 | FILE: main.py:77 | MESSAGE: Order created with 0 on SOL at 2023-09-14 09:49:34.068722
+INFO: 2023-09-14 09:49:35,080 | FILE: main.py:63 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 09:49:35,080 | FILE: main.py:77 | MESSAGE: Order created with 125 on XLM at 2023-09-14 09:49:35.080571
+INFO: 2023-09-14 09:49:35,080 | FILE: main.py:81 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 09:49:37,994 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p10-20020a170902eaca00b001c0774d9327sm436166pld.91 - gsmtp')
+INFO: 2023-09-14 10:03:14,999 | FILE: main.py:100 | MESSAGE: working...
+INFO: 2023-09-14 10:03:15,914 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:03:15,914 | FILE: main.py:81 | MESSAGE: Order created with 0 on BTC at 2023-09-14 10:03:15.914013
+INFO: 2023-09-14 10:03:16,563 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:03:16,563 | FILE: main.py:81 | MESSAGE: Order created with 0 on ETH at 2023-09-14 10:03:16.563573
+INFO: 2023-09-14 10:03:18,002 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:03:18,002 | FILE: main.py:81 | MESSAGE: Order created with 3 on DOT at 2023-09-14 10:03:18.002626
+INFO: 2023-09-14 10:03:19,088 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:03:19,088 | FILE: main.py:81 | MESSAGE: Order created with 0 on SOL at 2023-09-14 10:03:19.088285
+INFO: 2023-09-14 10:03:20,520 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:03:20,520 | FILE: main.py:81 | MESSAGE: Order created with 125 on XLM at 2023-09-14 10:03:20.520954
+INFO: 2023-09-14 10:03:20,538 | FILE: main.py:85 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 10:03:23,477 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z16-20020a170903019000b001ab2b4105ddsm455451plg.60 - gsmtp')
+INFO: 2023-09-14 10:09:39,839 | FILE: main.py:106 | MESSAGE: working...
+INFO: 2023-09-14 10:09:40,506 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:09:40,506 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 10:09:40.506146
+INFO: 2023-09-14 10:09:41,568 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:09:41,568 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 10:09:41.568373
+INFO: 2023-09-14 10:09:42,615 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:09:42,615 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 10:09:42.615551
+INFO: 2023-09-14 10:09:43,828 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:09:43,828 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 10:09:43.828767
+INFO: 2023-09-14 10:09:45,156 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:09:45,157 | FILE: main.py:86 | MESSAGE: Order created with 125 on XLM at 2023-09-14 10:09:45.157915
+INFO: 2023-09-14 10:09:45,160 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 10:09:48,989 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q4-20020a170902dac400b001b8b07bc600sm466045plx.186 - gsmtp')
+INFO: 2023-09-14 10:10:12,516 | FILE: main.py:106 | MESSAGE: working...
+INFO: 2023-09-14 10:12:28,760 | FILE: main.py:113 | MESSAGE: working...
+INFO: 2023-09-14 10:12:48,497 | FILE: main.py:113 | MESSAGE: working...
+INFO: 2023-09-14 10:13:37,510 | FILE: main.py:113 | MESSAGE: working...
+INFO: 2023-09-14 10:14:07,402 | FILE: main.py:107 | MESSAGE: working...
+INFO: 2023-09-14 10:14:08,021 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:14:08,021 | FILE: main.py:87 | MESSAGE: Order created with 0 on BTC at 2023-09-14 10:14:08.021558
+INFO: 2023-09-14 10:14:08,472 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:14:08,472 | FILE: main.py:87 | MESSAGE: Order created with 0 on ETH at 2023-09-14 10:14:08.472275
+INFO: 2023-09-14 10:14:08,933 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:14:08,933 | FILE: main.py:87 | MESSAGE: Order created with 3 on DOT at 2023-09-14 10:14:08.933052
+INFO: 2023-09-14 10:14:09,954 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:14:09,954 | FILE: main.py:87 | MESSAGE: Order created with 0 on SOL at 2023-09-14 10:14:09.954991
+INFO: 2023-09-14 10:14:10,979 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:14:10,979 | FILE: main.py:87 | MESSAGE: Order created with 125 on XLM at 2023-09-14 10:14:10.979556
+INFO: 2023-09-14 10:14:10,979 | FILE: main.py:91 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 10:14:13,759 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials a15-20020a170902eccf00b001c0c79b386esm478970plh.95 - gsmtp')
+INFO: 2023-09-14 10:58:27,676 | FILE: main.py:101 | MESSAGE: working...
+INFO: 2023-09-14 10:58:28,738 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:58:28,738 | FILE: main.py:81 | MESSAGE: Order created with 0 on BTC at 2023-09-14 10:58:28.738045
+INFO: 2023-09-14 10:58:29,459 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:58:29,459 | FILE: main.py:81 | MESSAGE: Order created with 0 on ETH at 2023-09-14 10:58:29.459911
+INFO: 2023-09-14 10:58:30,469 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:58:30,469 | FILE: main.py:81 | MESSAGE: Order created with 3 on DOT at 2023-09-14 10:58:30.469706
+INFO: 2023-09-14 10:58:31,509 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:58:31,509 | FILE: main.py:81 | MESSAGE: Order created with 0 on SOL at 2023-09-14 10:58:31.509897
+INFO: 2023-09-14 10:58:33,230 | FILE: main.py:67 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 10:58:33,230 | FILE: main.py:81 | MESSAGE: Order created with 126 on XLM at 2023-09-14 10:58:33.230247
+INFO: 2023-09-14 10:58:33,232 | FILE: main.py:85 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 10:58:36,118 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials a5-20020a655c85000000b00577af6f8090sm324899pgt.86 - gsmtp')
+INFO: 2023-09-14 11:08:19,187 | FILE: main.py:125 | MESSAGE: working...
+INFO: 2023-09-14 11:08:20,179 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:08:20,179 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:08:20.179533
+INFO: 2023-09-14 11:08:21,213 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:08:21,213 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:08:21.213601
+INFO: 2023-09-14 11:08:21,802 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:08:21,802 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:08:21.802326
+INFO: 2023-09-14 11:08:22,799 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:08:22,800 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:08:22.799232
+INFO: 2023-09-14 11:08:24,132 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:08:24,132 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:08:24.132757
+INFO: 2023-09-14 11:08:24,135 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:08:27,914 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials g8-20020a17090ace8800b0026b76edd607sm519967pju.15 - gsmtp')
+INFO: 2023-09-14 11:11:03,452 | FILE: main.py:125 | MESSAGE: working...
+INFO: 2023-09-14 11:11:04,050 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:11:04,050 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:11:04.050093
+INFO: 2023-09-14 11:11:04,802 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:11:04,802 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:11:04.802283
+INFO: 2023-09-14 11:11:05,388 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:11:05,389 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:11:05.389493
+INFO: 2023-09-14 11:11:06,373 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:11:06,373 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:11:06.373773
+INFO: 2023-09-14 11:11:07,681 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:11:07,681 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:11:07.681457
+INFO: 2023-09-14 11:11:07,681 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:11:10,470 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x1-20020a170902ec8100b001b8b45b177esm582279plg.274 - gsmtp')
+INFO: 2023-09-14 11:13:00,616 | FILE: main.py:125 | MESSAGE: working...
+INFO: 2023-09-14 11:13:01,114 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:13:01,114 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:13:01.114326
+INFO: 2023-09-14 11:13:02,580 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:13:02,580 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:13:02.580578
+INFO: 2023-09-14 11:13:03,566 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:13:03,566 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:13:03.566386
+INFO: 2023-09-14 11:13:04,547 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:13:04,547 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:13:04.547866
+INFO: 2023-09-14 11:13:05,838 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:13:05,838 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:13:05.838856
+INFO: 2023-09-14 11:13:05,838 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:13:09,495 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials r3-20020a638f43000000b005657495b03bsm417536pgn.38 - gsmtp')
+INFO: 2023-09-14 11:14:11,680 | FILE: main.py:125 | MESSAGE: working...
+INFO: 2023-09-14 11:14:12,244 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:14:12,244 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:14:12.244555
+INFO: 2023-09-14 11:14:12,849 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:14:12,849 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:14:12.849987
+INFO: 2023-09-14 11:14:13,432 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:14:13,432 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:14:13.432429
+INFO: 2023-09-14 11:14:14,421 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:14:14,421 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:14:14.421150
+INFO: 2023-09-14 11:14:15,854 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:14:15,854 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:14:15.854423
+INFO: 2023-09-14 11:14:15,854 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:14:19,396 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d21-20020a17090ab31500b00260a5ecd273sm509022pjr.1 - gsmtp')
+INFO: 2023-09-14 11:17:54,638 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:17:55,271 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:17:55,271 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:17:55.271109
+INFO: 2023-09-14 11:17:56,522 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:17:56,522 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:17:56.522358
+INFO: 2023-09-14 11:17:57,110 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:17:57,110 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:17:57.110997
+INFO: 2023-09-14 11:17:58,392 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:17:58,392 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:17:58.392680
+INFO: 2023-09-14 11:17:59,834 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:17:59,834 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:17:59.834964
+INFO: 2023-09-14 11:17:59,838 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:18:02,706 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v2-20020a62a502000000b0066a2e8431a0sm490108pfm.183 - gsmtp')
+INFO: 2023-09-14 11:18:30,089 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:18:30,676 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:18:30,677 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:18:30.677249
+INFO: 2023-09-14 11:18:31,575 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:18:31,575 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:18:31.575199
+INFO: 2023-09-14 11:18:32,151 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:18:32,151 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:18:32.151346
+INFO: 2023-09-14 11:18:33,151 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:18:33,151 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:18:33.151808
+INFO: 2023-09-14 11:18:34,191 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:18:34,191 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:18:34.191847
+INFO: 2023-09-14 11:18:34,195 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:18:37,953 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 13-20020aa7914d000000b006829969e3b0sm497938pfi.85 - gsmtp')
+INFO: 2023-09-14 11:20:19,544 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:20:20,035 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:20:20,035 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:20:20.035512
+INFO: 2023-09-14 11:20:20,963 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:20:20,963 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:20:20.963895
+INFO: 2023-09-14 11:20:21,970 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:20:21,970 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:20:21.970342
+INFO: 2023-09-14 11:20:23,276 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:20:23,276 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:20:23.276034
+INFO: 2023-09-14 11:20:24,358 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:20:24,359 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:20:24.359969
+INFO: 2023-09-14 11:20:24,369 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:20:27,110 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m1-20020a170902d18100b001b7f40a8959sm615096plb.76 - gsmtp')
+INFO: 2023-09-14 11:28:22,291 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:28:22,865 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:28:22,865 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:28:22.865141
+INFO: 2023-09-14 11:28:23,888 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:28:23,888 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:28:23.888805
+INFO: 2023-09-14 11:28:24,604 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:28:24,604 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:28:24.604296
+INFO: 2023-09-14 11:28:25,588 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:28:25,588 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:28:25.588464
+INFO: 2023-09-14 11:28:26,912 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:28:26,912 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:28:26.912526
+INFO: 2023-09-14 11:28:26,912 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:28:29,704 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z16-20020a656650000000b00565dd935938sm379707pgv.85 - gsmtp')
+INFO: 2023-09-14 11:29:08,986 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:29:09,433 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:29:09,433 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:29:09.433883
+INFO: 2023-09-14 11:29:10,120 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:29:10,120 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:29:10.120045
+INFO: 2023-09-14 11:29:10,783 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:29:10,783 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:29:10.783364
+INFO: 2023-09-14 11:29:12,361 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:29:12,361 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:29:12.361969
+INFO: 2023-09-14 11:29:13,378 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:29:13,378 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:29:13.378686
+INFO: 2023-09-14 11:29:13,378 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:29:17,032 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i4-20020aa787c4000000b0068fc6570874sm523538pfo.9 - gsmtp')
+INFO: 2023-09-14 11:31:12,779 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:31:14,042 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:14,042 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:31:14.042036
+INFO: 2023-09-14 11:31:14,922 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:14,922 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:31:14.922393
+INFO: 2023-09-14 11:31:15,358 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:15,358 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:31:15.358028
+INFO: 2023-09-14 11:31:15,808 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:15,808 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:31:15.808030
+INFO: 2023-09-14 11:31:16,827 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:16,828 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:31:16.828373
+INFO: 2023-09-14 11:31:16,833 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:31:20,515 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u6-20020a170902b28600b001b672af624esm630763plr.164 - gsmtp')
+INFO: 2023-09-14 11:31:47,327 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:31:47,900 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:47,900 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:31:47.900246
+INFO: 2023-09-14 11:31:48,947 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:48,963 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:31:48.963485
+INFO: 2023-09-14 11:31:49,680 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:49,680 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:31:49.680912
+INFO: 2023-09-14 11:31:50,666 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:50,666 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:31:50.666169
+INFO: 2023-09-14 11:31:51,420 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:31:51,420 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:31:51.420419
+INFO: 2023-09-14 11:31:51,422 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:31:54,193 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n7-20020a170902968700b001adf6b21c77sm640459plp.107 - gsmtp')
+INFO: 2023-09-14 11:33:59,135 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:33:59,723 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:33:59,724 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:33:59.724182
+INFO: 2023-09-14 11:34:00,357 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:34:00,357 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:34:00.357974
+INFO: 2023-09-14 11:34:01,503 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:34:01,503 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:34:01.503842
+INFO: 2023-09-14 11:34:02,530 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:34:02,530 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:34:02.530535
+INFO: 2023-09-14 11:34:03,816 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:34:03,816 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:34:03.816831
+INFO: 2023-09-14 11:34:03,821 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:34:06,717 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i15-20020aa787cf000000b006877a17b578sm528598pfo.40 - gsmtp')
+INFO: 2023-09-14 11:37:04,120 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:37:04,875 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:37:04,876 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:37:04.876914
+INFO: 2023-09-14 11:37:05,493 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:37:05,493 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:37:05.493357
+INFO: 2023-09-14 11:37:06,472 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:37:06,472 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:37:06.472801
+INFO: 2023-09-14 11:37:07,744 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:37:07,744 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:37:07.744966
+INFO: 2023-09-14 11:37:09,057 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:37:09,057 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:37:09.057440
+INFO: 2023-09-14 11:37:09,057 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:37:11,869 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i189-20020a639dc6000000b0050f85ef50d1sm431194pgd.26 - gsmtp')
+INFO: 2023-09-14 11:38:33,131 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:38:33,755 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:38:33,755 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:38:33.755226
+INFO: 2023-09-14 11:38:34,517 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:38:34,517 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:38:34.517156
+INFO: 2023-09-14 11:38:35,794 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:38:35,794 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:38:35.794241
+INFO: 2023-09-14 11:38:36,776 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:38:36,776 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:38:36.776086
+INFO: 2023-09-14 11:38:37,537 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:38:37,537 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:38:37.537571
+INFO: 2023-09-14 11:38:37,537 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:38:41,213 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b9-20020a17090a6e0900b0025bfda134ccsm568176pjk.16 - gsmtp')
+INFO: 2023-09-14 11:40:22,159 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:40:23,024 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:23,024 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:40:23.024870
+INFO: 2023-09-14 11:40:23,632 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:23,632 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:40:23.632015
+INFO: 2023-09-14 11:40:24,202 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:24,202 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:40:24.202189
+INFO: 2023-09-14 11:40:25,213 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:25,213 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:40:25.213719
+INFO: 2023-09-14 11:40:26,652 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:26,652 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:40:26.652818
+INFO: 2023-09-14 11:40:26,652 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:40:29,458 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x4-20020a656aa4000000b0056428865aadsm401217pgu.82 - gsmtp')
+INFO: 2023-09-14 11:40:52,929 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:40:53,382 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:53,383 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:40:53.383891
+INFO: 2023-09-14 11:40:54,115 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:54,115 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:40:54.115669
+INFO: 2023-09-14 11:40:54,700 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:54,701 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:40:54.701709
+INFO: 2023-09-14 11:40:55,704 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:55,704 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:40:55.704589
+INFO: 2023-09-14 11:40:57,011 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:40:57,011 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:40:57.011730
+INFO: 2023-09-14 11:40:57,017 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:40:59,777 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jd18-20020a170903261200b001b9e9f191f2sm669762plb.15 - gsmtp')
+INFO: 2023-09-14 11:41:44,840 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:41:45,418 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:41:45,418 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:41:45.418848
+INFO: 2023-09-14 11:41:46,054 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:41:46,054 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:41:46.054238
+INFO: 2023-09-14 11:41:46,761 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:41:46,761 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:41:46.761091
+INFO: 2023-09-14 11:41:48,039 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:41:48,039 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:41:48.039448
+INFO: 2023-09-14 11:41:48,802 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:41:48,802 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:41:48.802764
+INFO: 2023-09-14 11:41:48,807 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:41:51,586 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d13-20020a170903230d00b001b9da8b4eb7sm663605plh.35 - gsmtp')
+INFO: 2023-09-14 11:42:50,370 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:42:51,125 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:42:51,125 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:42:51.125428
+INFO: 2023-09-14 11:42:52,158 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:42:52,159 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:42:52.159220
+INFO: 2023-09-14 11:42:52,874 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:42:52,874 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:42:52.874756
+INFO: 2023-09-14 11:42:53,884 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:42:53,884 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:42:53.884730
+INFO: 2023-09-14 11:42:55,267 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:42:55,268 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:42:55.268137
+INFO: 2023-09-14 11:42:55,282 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:42:58,097 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials f63-20020a17090a704500b002747fbd9bbfsm963pjk.37 - gsmtp')
+INFO: 2023-09-14 11:44:04,048 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:44:04,629 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:44:04,629 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:44:04.629449
+INFO: 2023-09-14 11:44:05,242 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:44:05,242 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:44:05.242103
+INFO: 2023-09-14 11:44:05,824 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:44:05,824 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:44:05.824608
+INFO: 2023-09-14 11:44:07,245 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:44:07,245 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:44:07.245559
+INFO: 2023-09-14 11:44:07,859 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:44:07,859 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:44:07.859577
+INFO: 2023-09-14 11:44:07,867 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:44:10,814 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h14-20020a170902680e00b001b9d8688956sm677466plk.144 - gsmtp')
+INFO: 2023-09-14 11:50:43,345 | FILE: main.py:129 | MESSAGE: working...
+INFO: 2023-09-14 11:50:44,348 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:50:44,348 | FILE: main.py:83 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:50:44.348383
+INFO: 2023-09-14 11:50:45,236 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:50:45,236 | FILE: main.py:83 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:50:45.236561
+INFO: 2023-09-14 11:50:45,826 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:50:45,826 | FILE: main.py:83 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:50:45.826857
+INFO: 2023-09-14 11:50:46,989 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:50:46,989 | FILE: main.py:83 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:50:46.989867
+INFO: 2023-09-14 11:50:48,025 | FILE: main.py:69 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:50:48,025 | FILE: main.py:83 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:50:48.025664
+INFO: 2023-09-14 11:50:48,036 | FILE: main.py:87 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:50:50,941 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e4-20020a170902d38400b001bd62419744sm682479pld.147 - gsmtp')
+INFO: 2023-09-14 11:52:45,145 | FILE: main.py:130 | MESSAGE: working...
+INFO: 2023-09-14 11:52:45,937 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:52:45,937 | FILE: main.py:84 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:52:45.937413
+INFO: 2023-09-14 11:52:46,849 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:52:46,849 | FILE: main.py:84 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:52:46.849678
+INFO: 2023-09-14 11:52:47,456 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:52:47,456 | FILE: main.py:84 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:52:47.456996
+INFO: 2023-09-14 11:52:48,734 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:52:48,734 | FILE: main.py:84 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:52:48.734935
+INFO: 2023-09-14 11:52:50,040 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:52:50,040 | FILE: main.py:84 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:52:50.040930
+INFO: 2023-09-14 11:52:50,058 | FILE: main.py:88 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:52:52,956 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l7-20020a170903120700b001b87bedcc6fsm694890plh.93 - gsmtp')
+INFO: 2023-09-14 11:54:40,448 | FILE: main.py:130 | MESSAGE: working...
+INFO: 2023-09-14 11:54:40,918 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:54:40,918 | FILE: main.py:84 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:54:40.918251
+INFO: 2023-09-14 11:54:41,681 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:54:41,681 | FILE: main.py:84 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:54:41.681087
+INFO: 2023-09-14 11:54:42,580 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:54:42,580 | FILE: main.py:84 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:54:42.580697
+INFO: 2023-09-14 11:54:43,605 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:54:43,605 | FILE: main.py:84 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:54:43.605677
+INFO: 2023-09-14 11:54:44,928 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:54:44,928 | FILE: main.py:84 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:54:44.928287
+INFO: 2023-09-14 11:54:44,937 | FILE: main.py:88 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:54:48,831 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t25-20020a62ea19000000b0068c6889e146sm586144pfh.98 - gsmtp')
+INFO: 2023-09-14 11:56:32,158 | FILE: main.py:130 | MESSAGE: working...
+INFO: 2023-09-14 11:56:32,756 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:56:32,756 | FILE: main.py:84 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:56:32.756389
+INFO: 2023-09-14 11:56:33,698 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:56:33,698 | FILE: main.py:84 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:56:33.698402
+INFO: 2023-09-14 11:56:34,436 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:56:34,436 | FILE: main.py:84 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:56:34.436976
+INFO: 2023-09-14 11:56:36,095 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:56:36,095 | FILE: main.py:84 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:56:36.095382
+INFO: 2023-09-14 11:56:37,432 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:56:37,432 | FILE: main.py:84 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:56:37.432297
+INFO: 2023-09-14 11:56:37,437 | FILE: main.py:88 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:56:41,233 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e15-20020a17090a684f00b0026b4d215627sm594599pjm.21 - gsmtp')
+INFO: 2023-09-14 11:57:41,058 | FILE: main.py:130 | MESSAGE: working...
+INFO: 2023-09-14 11:57:41,657 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:57:41,657 | FILE: main.py:84 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:57:41.657084
+INFO: 2023-09-14 11:57:42,418 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:57:42,419 | FILE: main.py:84 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:57:42.419277
+INFO: 2023-09-14 11:57:43,147 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:57:43,147 | FILE: main.py:84 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:57:43.147315
+INFO: 2023-09-14 11:57:44,206 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:57:44,206 | FILE: main.py:84 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:57:44.206355
+INFO: 2023-09-14 11:57:45,253 | FILE: main.py:70 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:57:45,253 | FILE: main.py:84 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:57:45.253181
+INFO: 2023-09-14 11:57:45,257 | FILE: main.py:88 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:57:48,074 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t12-20020aa7938c000000b006887b72ba38sm570200pfe.164 - gsmtp')
+INFO: 2023-09-14 11:59:42,515 | FILE: main.py:131 | MESSAGE: working...
+INFO: 2023-09-14 11:59:43,557 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:59:43,557 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 11:59:43.557931
+INFO: 2023-09-14 11:59:44,202 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:59:44,202 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 11:59:44.202628
+INFO: 2023-09-14 11:59:44,781 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:59:44,781 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 11:59:44.781899
+INFO: 2023-09-14 11:59:46,082 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:59:46,082 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 11:59:46.082583
+INFO: 2023-09-14 11:59:47,387 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 11:59:47,387 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 11:59:47.387915
+INFO: 2023-09-14 11:59:47,396 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 11:59:50,917 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials a27-20020a63705b000000b00565d82769d1sm514325pgn.77 - gsmtp')
+INFO: 2023-09-14 12:00:32,059 | FILE: main.py:131 | MESSAGE: working...
+INFO: 2023-09-14 12:00:33,077 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:33,077 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:00:33.077315
+INFO: 2023-09-14 12:00:34,148 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:34,148 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:00:34.148729
+INFO: 2023-09-14 12:00:35,268 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:35,268 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:00:35.268554
+INFO: 2023-09-14 12:00:36,414 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:36,414 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:00:36.414814
+INFO: 2023-09-14 12:00:36,912 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:36,912 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:00:36.912494
+INFO: 2023-09-14 12:00:36,915 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:00:39,902 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials bm1-20020a056a00320100b006900cb919b8sm578185pfb.53 - gsmtp')
+INFO: 2023-09-14 12:00:57,633 | FILE: main.py:131 | MESSAGE: working...
+INFO: 2023-09-14 12:00:58,120 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:58,120 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:00:58.120076
+INFO: 2023-09-14 12:00:59,041 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:59,041 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:00:59.041690
+INFO: 2023-09-14 12:00:59,675 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:00:59,675 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:00:59.675791
+INFO: 2023-09-14 12:01:01,216 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:01:01,216 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:01:01.216728
+INFO: 2023-09-14 12:01:02,534 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:01:02,534 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:01:02.534836
+INFO: 2023-09-14 12:01:02,543 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:01:05,347 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l6-20020a170902f68600b001b89f6550d1sm717739plg.16 - gsmtp')
+INFO: 2023-09-14 12:05:01,467 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:05:02,060 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:05:02,060 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:05:02.060338
+INFO: 2023-09-14 12:05:02,631 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:05:02,631 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:05:02.631196
+INFO: 2023-09-14 12:05:03,265 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:05:03,265 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:05:03.265296
+INFO: 2023-09-14 12:05:04,434 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:05:04,434 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:05:04.434087
+INFO: 2023-09-14 12:05:05,976 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:05:05,976 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:05:05.976634
+INFO: 2023-09-14 12:05:05,984 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:05:08,920 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jb7-20020a170903258700b001bbfa86ca3bsm712268plb.78 - gsmtp')
+INFO: 2023-09-14 12:06:13,629 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:06:14,224 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:06:14,224 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:06:14.224448
+INFO: 2023-09-14 12:06:14,680 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:06:14,680 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:06:14.680951
+INFO: 2023-09-14 12:06:15,470 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:06:15,470 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:06:15.470080
+INFO: 2023-09-14 12:06:16,465 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:06:16,465 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:06:16.465139
+INFO: 2023-09-14 12:06:17,733 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:06:17,733 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:06:17.733334
+INFO: 2023-09-14 12:06:17,755 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:06:21,343 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m12-20020a17090a71cc00b00262d079720bsm2411866pjs.29 - gsmtp')
+INFO: 2023-09-14 12:07:19,596 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:07:20,177 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:07:20,177 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:07:20.177665
+INFO: 2023-09-14 12:07:20,771 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:07:20,771 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:07:20.771071
+INFO: 2023-09-14 12:07:21,391 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:07:21,391 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:07:21.391398
+INFO: 2023-09-14 12:07:22,406 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:07:22,406 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:07:22.406859
+INFO: 2023-09-14 12:07:23,279 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:07:23,279 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:07:23.279867
+INFO: 2023-09-14 12:07:23,301 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:07:26,276 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h3-20020a170902b94300b001b66a71a4a0sm729840pls.32 - gsmtp')
+INFO: 2023-09-14 12:08:21,942 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:08:22,392 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:08:22,392 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:08:22.392766
+INFO: 2023-09-14 12:08:23,156 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:08:23,156 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:08:23.156686
+INFO: 2023-09-14 12:08:23,671 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:08:23,671 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:08:23.671598
+INFO: 2023-09-14 12:08:24,680 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:08:24,680 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:08:24.680404
+INFO: 2023-09-14 12:08:25,954 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:08:25,954 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:08:25.954522
+INFO: 2023-09-14 12:08:25,969 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:08:28,822 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials iy15-20020a170903130f00b001c3be750900sm722557plb.163 - gsmtp')
+INFO: 2023-09-14 12:09:44,173 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:09:44,822 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:09:44,822 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:09:44.822152
+INFO: 2023-09-14 12:09:45,919 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:09:45,919 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:09:45.919156
+INFO: 2023-09-14 12:09:46,569 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:09:46,569 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:09:46.569156
+INFO: 2023-09-14 12:09:47,773 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:09:47,774 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:09:47.774421
+INFO: 2023-09-14 12:09:49,368 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:09:49,368 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:09:49.368021
+INFO: 2023-09-14 12:09:49,383 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:09:53,022 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v3-20020a17090abb8300b0026d462d34ffsm2420514pjr.47 - gsmtp')
+INFO: 2023-09-14 12:13:31,073 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:13:31,652 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:13:31,652 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:13:31.652835
+INFO: 2023-09-14 12:13:32,232 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:13:32,240 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:13:32.240742
+INFO: 2023-09-14 12:13:32,867 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:13:32,867 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:13:32.867548
+INFO: 2023-09-14 12:13:33,875 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:13:33,875 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:13:33.875667
+INFO: 2023-09-14 12:13:34,766 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:13:34,766 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:13:34.766954
+INFO: 2023-09-14 12:13:34,779 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:13:37,711 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p4-20020a170902a40400b001b03a1a3151sm736347plq.70 - gsmtp')
+INFO: 2023-09-14 12:16:07,745 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:16:08,476 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:16:08,476 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:16:08.476194
+INFO: 2023-09-14 12:16:09,068 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:16:09,068 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:16:09.068079
+INFO: 2023-09-14 12:16:09,708 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:16:09,708 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:16:09.708596
+INFO: 2023-09-14 12:16:10,886 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:16:10,886 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:16:10.886859
+INFO: 2023-09-14 12:16:12,289 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:16:12,289 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:16:12.289150
+INFO: 2023-09-14 12:16:12,307 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:16:15,848 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 59-20020a17090a09c100b00268b439a0cbsm701724pjo.23 - gsmtp')
+INFO: 2023-09-14 12:19:53,695 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:19:54,283 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:19:54,283 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:19:54.283217
+INFO: 2023-09-14 12:19:54,874 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:19:54,874 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:19:54.874182
+INFO: 2023-09-14 12:19:55,491 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:19:55,491 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:19:55.491853
+INFO: 2023-09-14 12:19:56,790 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:19:56,790 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:19:56.790752
+INFO: 2023-09-14 12:19:58,118 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:19:58,122 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:19:58.122174
+INFO: 2023-09-14 12:19:58,134 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:20:01,769 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials ci4-20020a17090afc8400b0027475ac5bcasm310841pjb.30 - gsmtp')
+INFO: 2023-09-14 12:22:38,227 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:22:38,842 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:22:38,842 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:22:38.842238
+INFO: 2023-09-14 12:22:39,466 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:22:39,474 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:22:39.474658
+INFO: 2023-09-14 12:22:40,557 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:22:40,557 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:22:40.557328
+INFO: 2023-09-14 12:22:41,627 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:22:41,627 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:22:41.627816
+INFO: 2023-09-14 12:22:42,674 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:22:42,681 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:22:42.681213
+INFO: 2023-09-14 12:22:42,695 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:22:46,498 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s8-20020a17090ad48800b0026b46ad94c9sm655782pju.24 - gsmtp')
+INFO: 2023-09-14 12:25:06,124 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:25:06,759 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:06,759 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:25:06.759072
+INFO: 2023-09-14 12:25:07,348 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:07,348 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:25:07.348347
+INFO: 2023-09-14 12:25:07,945 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:07,945 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:25:07.945136
+INFO: 2023-09-14 12:25:09,455 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:09,455 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:25:09.455707
+INFO: 2023-09-14 12:25:10,799 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:10,814 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:25:10.814315
+INFO: 2023-09-14 12:25:10,844 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:25:13,742 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials ey20-20020a056a0038d400b0063f00898245sm646391pfb.146 - gsmtp')
+INFO: 2023-09-14 12:25:31,478 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:25:32,220 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:32,220 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:25:32.220985
+INFO: 2023-09-14 12:25:32,878 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:32,878 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:25:32.878363
+INFO: 2023-09-14 12:25:33,915 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:33,915 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:25:33.915634
+INFO: 2023-09-14 12:25:35,224 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:35,224 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:25:35.224742
+INFO: 2023-09-14 12:25:36,566 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:25:36,566 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:25:36.566632
+INFO: 2023-09-14 12:25:36,575 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:25:40,270 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials bh7-20020a170902a98700b001bb7a736b4csm761235plb.77 - gsmtp')
+INFO: 2023-09-14 12:26:33,645 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:26:34,491 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:26:34,492 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:26:34.492130
+INFO: 2023-09-14 12:26:35,874 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:26:35,874 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:26:35.874966
+INFO: 2023-09-14 12:26:36,575 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:26:36,575 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:26:36.575621
+INFO: 2023-09-14 12:26:37,464 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:26:37,464 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:26:37.464724
+INFO: 2023-09-14 12:26:38,771 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:26:38,772 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:26:38.772550
+INFO: 2023-09-14 12:26:38,791 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:26:42,328 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h22-20020a17090a055600b0026f919ff9a1sm2661166pjf.10 - gsmtp')
+INFO: 2023-09-14 12:27:53,034 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:27:53,835 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:27:53,835 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:27:53.835314
+INFO: 2023-09-14 12:27:54,418 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:27:54,418 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:27:54.418157
+INFO: 2023-09-14 12:27:55,367 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:27:55,367 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:27:55.367715
+INFO: 2023-09-14 12:27:56,399 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:27:56,399 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:27:56.399361
+INFO: 2023-09-14 12:27:57,984 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:27:57,984 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:27:57.984095
+INFO: 2023-09-14 12:27:57,997 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:28:00,863 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x23-20020aa793b7000000b0068bc2c76393sm643449pff.21 - gsmtp')
+INFO: 2023-09-14 12:30:30,559 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:30:31,161 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:30:31,161 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:30:31.161454
+INFO: 2023-09-14 12:30:32,013 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:30:32,013 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:30:32.013595
+INFO: 2023-09-14 12:30:32,770 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:30:32,770 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:30:32.770748
+INFO: 2023-09-14 12:30:34,093 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:30:34,096 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:30:34.094821
+INFO: 2023-09-14 12:30:34,634 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:30:34,634 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:30:34.634389
+INFO: 2023-09-14 12:30:34,657 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:30:37,567 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t10-20020a170902bc4a00b001bdd512df9csm775687plz.74 - gsmtp')
+INFO: 2023-09-14 12:34:34,328 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:34:36,033 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:34:36,033 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:34:36.033823
+INFO: 2023-09-14 12:34:36,665 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:34:36,665 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:34:36.665506
+INFO: 2023-09-14 12:34:37,624 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:34:37,624 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:34:37.624124
+INFO: 2023-09-14 12:34:38,716 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:34:38,716 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:34:38.716597
+INFO: 2023-09-14 12:34:39,790 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:34:39,790 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:34:39.790280
+INFO: 2023-09-14 12:34:39,811 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:34:42,629 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m2-20020a170902768200b001acae9734c0sm773872pll.266 - gsmtp')
+INFO: 2023-09-14 12:37:56,315 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:37:56,888 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:37:56,888 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:37:56.888750
+INFO: 2023-09-14 12:37:57,544 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:37:57,544 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:37:57.544246
+INFO: 2023-09-14 12:37:58,411 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:37:58,411 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:37:58.411773
+INFO: 2023-09-14 12:37:59,560 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:37:59,560 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:37:59.560585
+INFO: 2023-09-14 12:38:01,164 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:01,164 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:38:01.164278
+INFO: 2023-09-14 12:38:01,176 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:38:04,581 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z3-20020a637e03000000b0057754ae4eb7sm565999pgc.39 - gsmtp')
+INFO: 2023-09-14 12:38:20,717 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:38:21,338 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:21,338 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:38:21.338510
+INFO: 2023-09-14 12:38:21,985 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:21,985 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:38:21.985791
+INFO: 2023-09-14 12:38:22,724 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:22,724 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:38:22.724134
+INFO: 2023-09-14 12:38:23,735 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:23,735 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:38:23.735467
+INFO: 2023-09-14 12:38:24,807 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:38:24,807 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:38:24.807140
+INFO: 2023-09-14 12:38:24,820 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:38:28,302 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 19-20020a17090a001300b00263f5ac814esm2700748pja.38 - gsmtp')
+INFO: 2023-09-14 12:39:18,677 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:39:19,202 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:39:19,202 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:39:19.202895
+INFO: 2023-09-14 12:39:19,832 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:39:19,832 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:39:19.832243
+INFO: 2023-09-14 12:39:20,858 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:39:20,858 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:39:20.858558
+INFO: 2023-09-14 12:39:21,879 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:39:21,879 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:39:21.879940
+INFO: 2023-09-14 12:39:23,061 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:39:23,061 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:39:23.061131
+INFO: 2023-09-14 12:39:23,085 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:39:26,731 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials r8-20020a1709028bc800b001bf11cf2e21sm788747plo.210 - gsmtp')
+INFO: 2023-09-14 12:41:35,692 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:41:36,188 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:41:36,188 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:41:36.188585
+INFO: 2023-09-14 12:41:36,812 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:41:36,812 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:41:36.812812
+INFO: 2023-09-14 12:41:37,893 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:41:37,893 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:41:37.893017
+INFO: 2023-09-14 12:41:38,798 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:41:38,798 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:41:38.798659
+INFO: 2023-09-14 12:41:40,317 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:41:40,317 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:41:40.317756
+INFO: 2023-09-14 12:41:40,335 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:41:43,261 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p21-20020a170902ead500b001b8c6890623sm808724pld.7 - gsmtp')
+INFO: 2023-09-14 12:42:49,834 | FILE: main.py:132 | MESSAGE: working...
+INFO: 2023-09-14 12:42:50,401 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:42:50,401 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:42:50.401480
+INFO: 2023-09-14 12:42:51,426 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:42:51,426 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:42:51.426642
+INFO: 2023-09-14 12:42:52,047 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:42:52,047 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:42:52.047218
+INFO: 2023-09-14 12:42:53,198 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:42:53,198 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:42:53.198072
+INFO: 2023-09-14 12:42:54,242 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:42:54,242 | FILE: main.py:86 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:42:54.242805
+INFO: 2023-09-14 12:42:54,270 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:42:57,278 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t17-20020a1709028c9100b001bdb85291casm796549plo.208 - gsmtp')
+INFO: 2023-09-14 12:49:40,460 | FILE: main.py:142 | MESSAGE: working...
+INFO: 2023-09-14 12:49:40,923 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:49:40,923 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:49:40.923729
+INFO: 2023-09-14 12:49:41,434 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:49:41,434 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:49:41.434120
+INFO: 2023-09-14 12:49:42,213 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:49:42,222 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:49:42.222332
+INFO: 2023-09-14 12:49:43,225 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:49:43,225 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:49:43.225794
+INFO: 2023-09-14 12:49:44,548 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:49:44,548 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:49:44.548983
+INFO: 2023-09-14 12:49:44,552 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:49:47,473 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials k2-20020aa790c2000000b006875df4773fsm679039pfk.163 - gsmtp')
+INFO: 2023-09-14 12:50:12,738 | FILE: main.py:142 | MESSAGE: working...
+INFO: 2023-09-14 12:50:13,211 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:50:13,211 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:50:13.211819
+INFO: 2023-09-14 12:50:13,985 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:50:13,985 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:50:13.985648
+INFO: 2023-09-14 12:50:14,999 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:50:14,999 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:50:14.999410
+INFO: 2023-09-14 12:50:16,303 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:50:16,303 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:50:16.303844
+INFO: 2023-09-14 12:50:17,327 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:50:17,327 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:50:17.327595
+INFO: 2023-09-14 12:50:17,345 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:50:20,115 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s12-20020a62e70c000000b0068e4c5a4f3esm685159pfh.71 - gsmtp')
+INFO: 2023-09-14 12:55:51,487 | FILE: main.py:143 | MESSAGE: working...
+INFO: 2023-09-14 12:55:52,079 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:55:52,079 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:55:52.079778
+INFO: 2023-09-14 12:55:52,715 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:55:52,715 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:55:52.715973
+INFO: 2023-09-14 12:55:53,306 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:55:53,306 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:55:53.306563
+INFO: 2023-09-14 12:55:54,323 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:55:54,357 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:55:54.357135
+INFO: 2023-09-14 12:55:55,678 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:55:55,710 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:55:55.710747
+INFO: 2023-09-14 12:55:55,729 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:55:58,812 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v3-20020a62a503000000b00682bec0b680sm696041pfm.89 - gsmtp')
+INFO: 2023-09-14 12:59:00,800 | FILE: main.py:145 | MESSAGE: working...
+INFO: 2023-09-14 12:59:01,367 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:59:01,367 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 12:59:01.367892
+INFO: 2023-09-14 12:59:02,420 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:59:02,420 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 12:59:02.420655
+INFO: 2023-09-14 12:59:02,949 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:59:02,949 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 12:59:02.949071
+INFO: 2023-09-14 12:59:03,967 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:59:03,967 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 12:59:03.967750
+INFO: 2023-09-14 12:59:04,735 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 12:59:04,735 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 12:59:04.735241
+INFO: 2023-09-14 12:59:04,759 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 12:59:07,596 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o10-20020a170902d4ca00b001bf3bdbceb5sm837918plg.134 - gsmtp')
+INFO: 2023-09-14 13:02:32,928 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 13:02:33,494 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:02:33,494 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 13:02:33.494409
+INFO: 2023-09-14 13:02:34,146 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:02:34,146 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 13:02:34.146114
+INFO: 2023-09-14 13:02:35,441 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:02:35,441 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 13:02:35.441765
+INFO: 2023-09-14 13:02:36,473 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:02:36,473 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 13:02:36.473235
+INFO: 2023-09-14 13:02:37,650 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:02:37,650 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 13:02:37.650811
+INFO: 2023-09-14 13:02:37,675 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 13:02:41,371 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials bf9-20020a17090b0b0900b0026b30377c14sm723758pjb.6 - gsmtp')
+INFO: 2023-09-14 13:54:22,881 | FILE: font_manager.py:1443 | MESSAGE: generated new fontManager
+INFO: 2023-09-14 13:54:25,028 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 13:54:25,528 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:54:25,528 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 13:54:25.528106
+INFO: 2023-09-14 13:54:26,160 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:54:26,160 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 13:54:26.160847
+INFO: 2023-09-14 13:54:26,762 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:54:26,762 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 13:54:26.762437
+INFO: 2023-09-14 13:54:27,769 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:54:27,769 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 13:54:27.769562
+INFO: 2023-09-14 13:54:28,552 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 13:54:28,552 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 13:54:28.552284
+INFO: 2023-09-14 13:54:28,567 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 13:54:32,179 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials g5-20020a17090adac500b002739282db53sm2652454pjx.32 - gsmtp')
+INFO: 2023-09-14 14:05:12,965 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 14:05:13,573 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:05:13,573 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 14:05:13.573650
+INFO: 2023-09-14 14:05:14,093 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:05:14,093 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 14:05:14.093018
+INFO: 2023-09-14 14:05:14,685 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:05:14,685 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 14:05:14.685441
+INFO: 2023-09-14 14:05:15,729 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:05:15,730 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 14:05:15.730234
+INFO: 2023-09-14 14:05:17,164 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:05:17,164 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-14 14:05:17.164600
+INFO: 2023-09-14 14:05:17,180 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 14:05:20,046 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials je1-20020a170903264100b001bb99ea5d02sm1004322plb.4 - gsmtp')
+INFO: 2023-09-14 14:45:28,537 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 14:45:29,144 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:45:29,144 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 14:45:29.144352
+INFO: 2023-09-14 14:45:30,231 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:45:30,231 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 14:45:30.231148
+INFO: 2023-09-14 14:45:30,845 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:45:30,845 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 14:45:30.845002
+INFO: 2023-09-14 14:45:32,028 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:45:32,028 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 14:45:32.028325
+INFO: 2023-09-14 14:45:33,503 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 14:45:33,503 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 14:45:33.503588
+INFO: 2023-09-14 14:45:33,520 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 14:45:36,604 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 15-20020aa7910f000000b006877b0b31c2sm942532pfh.147 - gsmtp')
+INFO: 2023-09-14 15:06:24,645 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:06:25,156 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:06:25,159 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:06:25.159083
+INFO: 2023-09-14 15:06:26,226 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:06:26,226 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:06:26.226754
+INFO: 2023-09-14 15:06:27,520 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:06:27,520 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:06:27.520006
+INFO: 2023-09-14 15:06:28,578 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:06:28,578 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:06:28.578672
+INFO: 2023-09-14 15:06:30,277 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:06:30,277 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:06:30.277525
+INFO: 2023-09-14 15:06:30,309 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:06:33,184 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q22-20020a170902bd9600b001bb9f104328sm1117145pls.146 - gsmtp')
+INFO: 2023-09-14 15:09:10,738 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:09:11,353 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:11,353 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:09:11.353137
+INFO: 2023-09-14 15:09:12,061 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:12,061 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:09:12.061272
+INFO: 2023-09-14 15:09:13,113 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:13,113 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:09:13.113434
+INFO: 2023-09-14 15:09:14,387 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:14,387 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:09:14.387376
+INFO: 2023-09-14 15:09:15,578 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:15,578 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:09:15.578907
+INFO: 2023-09-14 15:09:15,596 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+INFO: 2023-09-14 15:09:16,636 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:09:17,138 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:17,139 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:09:17.139524
+INFO: 2023-09-14 15:09:17,789 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:17,789 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:09:17.789142
+INFO: 2023-09-14 15:09:18,415 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:18,415 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:09:18.415195
+ERROR: 2023-09-14 15:09:19,352 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e11-20020aa78c4b000000b006870ff20254sm946536pfd.125 - gsmtp')
+INFO: 2023-09-14 15:09:19,708 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:19,708 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:09:19.708673
+INFO: 2023-09-14 15:09:20,776 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:09:20,776 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:09:20.776690
+INFO: 2023-09-14 15:09:20,797 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:09:23,653 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials c11-20020a62e80b000000b0068c69ed223esm954910pfi.77 - gsmtp')
+INFO: 2023-09-14 15:13:29,752 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:13:30,323 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:13:30,323 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:13:30.323719
+INFO: 2023-09-14 15:13:30,952 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:13:30,952 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:13:30.952484
+INFO: 2023-09-14 15:13:31,975 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:13:31,975 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:13:31.975701
+INFO: 2023-09-14 15:13:32,999 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:13:32,999 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:13:32.999230
+INFO: 2023-09-14 15:13:34,382 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:13:34,382 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:13:34.382116
+INFO: 2023-09-14 15:13:34,399 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:13:38,032 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 24-20020a17090a001800b002681bda127esm1043174pja.35 - gsmtp')
+INFO: 2023-09-14 15:15:18,929 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:15:19,537 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:15:19,537 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:15:19.537030
+INFO: 2023-09-14 15:15:20,345 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:15:20,345 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:15:20.345956
+INFO: 2023-09-14 15:15:20,853 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:15:20,853 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:15:20.853298
+INFO: 2023-09-14 15:15:22,145 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:15:22,145 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:15:22.145781
+INFO: 2023-09-14 15:15:23,536 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:15:23,536 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:15:23.536053
+INFO: 2023-09-14 15:15:23,572 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:15:26,518 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z24-20020aa791d8000000b006887be16675sm963638pfa.205 - gsmtp')
+INFO: 2023-09-14 15:17:03,180 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:17:04,087 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:17:04,095 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:17:04.087052
+INFO: 2023-09-14 15:17:04,697 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:17:04,697 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:17:04.697988
+INFO: 2023-09-14 15:17:05,506 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:17:05,506 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:17:05.506069
+INFO: 2023-09-14 15:17:06,569 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:17:06,569 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:17:06.569086
+INFO: 2023-09-14 15:17:07,980 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:17:07,981 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:17:07.981411
+INFO: 2023-09-14 15:17:07,998 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:17:11,002 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q29-20020a63751d000000b00570574feda0sm821485pgc.19 - gsmtp')
+INFO: 2023-09-14 15:18:07,994 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:18:08,635 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:18:08,635 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:18:08.635553
+INFO: 2023-09-14 15:18:09,319 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:18:09,319 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:18:09.319454
+INFO: 2023-09-14 15:18:10,393 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:18:10,393 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:18:10.393008
+INFO: 2023-09-14 15:18:11,437 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:18:11,437 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:18:11.437401
+INFO: 2023-09-14 15:18:12,794 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:18:12,794 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:18:12.794993
+INFO: 2023-09-14 15:18:12,812 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:18:16,441 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s8-20020a17090a764800b0026b50d9aee6sm967295pjl.25 - gsmtp')
+INFO: 2023-09-14 15:19:40,055 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:19:40,690 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:40,690 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:19:40.690282
+INFO: 2023-09-14 15:19:41,772 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:41,772 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:19:41.772141
+INFO: 2023-09-14 15:19:42,300 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:42,300 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:19:42.300033
+INFO: 2023-09-14 15:19:44,022 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:44,022 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:19:44.022284
+INFO: 2023-09-14 15:19:45,507 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:45,507 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:19:45.507161
+INFO: 2023-09-14 15:19:45,533 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+INFO: 2023-09-14 15:19:46,536 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:19:47,142 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:47,142 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:19:47.142081
+ERROR: 2023-09-14 15:19:48,441 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l2-20020a637002000000b00570668ccd5bsm831718pgc.14 - gsmtp')
+INFO: 2023-09-14 15:19:48,547 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:48,547 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:19:48.547443
+INFO: 2023-09-14 15:19:49,157 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:49,157 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:19:49.157073
+INFO: 2023-09-14 15:19:50,255 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:50,255 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:19:50.255076
+INFO: 2023-09-14 15:19:51,445 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:19:51,445 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:19:51.445713
+INFO: 2023-09-14 15:19:51,475 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:19:54,328 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jn18-20020a170903051200b001a98f844e60sm1143062plb.263 - gsmtp')
+INFO: 2023-09-14 15:25:50,260 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:25:50,785 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:25:50,785 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:25:50.785314
+INFO: 2023-09-14 15:25:51,508 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:25:51,508 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:25:51.508855
+INFO: 2023-09-14 15:25:52,319 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:25:52,319 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:25:52.319826
+INFO: 2023-09-14 15:25:53,422 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:25:53,422 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:25:53.422531
+INFO: 2023-09-14 15:25:54,990 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:25:54,990 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:25:54.990201
+INFO: 2023-09-14 15:25:54,999 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:25:57,846 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials z12-20020a170903018c00b001beef2c9bffsm1174878plg.85 - gsmtp')
+INFO: 2023-09-14 15:26:01,845 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:26:02,891 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:26:02,891 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:26:02.891264
+INFO: 2023-09-14 15:26:03,673 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:26:03,673 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:26:03.673202
+INFO: 2023-09-14 15:26:05,040 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:26:05,040 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:26:05.040782
+INFO: 2023-09-14 15:26:05,589 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:26:05,589 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:26:05.589698
+INFO: 2023-09-14 15:26:06,763 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:26:06,763 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:26:06.763021
+INFO: 2023-09-14 15:26:06,789 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:26:09,635 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i16-20020aa78b50000000b0068a30f6cf32sm1017590pfd.143 - gsmtp')
+INFO: 2023-09-14 15:27:25,595 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:27:26,085 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:26,085 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:27:26.085484
+INFO: 2023-09-14 15:27:26,604 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:26,604 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:27:26.604759
+INFO: 2023-09-14 15:27:27,214 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:27,214 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:27:27.214314
+INFO: 2023-09-14 15:27:28,235 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:28,235 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:27:28.235982
+INFO: 2023-09-14 15:27:28,636 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:27:29,435 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:29,436 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:27:29.436765
+INFO: 2023-09-14 15:27:29,919 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:29,920 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:27:29.920196
+INFO: 2023-09-14 15:27:29,937 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+INFO: 2023-09-14 15:27:30,235 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:30,235 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:27:30.235140
+INFO: 2023-09-14 15:27:30,806 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:30,808 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:27:30.806822
+INFO: 2023-09-14 15:27:32,136 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:32,136 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:27:32.136673
+ERROR: 2023-09-14 15:27:32,713 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials jj5-20020a170903048500b001b51b3e84cesm1179316plb.166 - gsmtp')
+INFO: 2023-09-14 15:27:33,475 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:27:33,475 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:27:33.475844
+INFO: 2023-09-14 15:27:33,497 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:27:36,265 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e11-20020a170902b78b00b001b80d399730sm1164524pls.242 - gsmtp')
+INFO: 2023-09-14 15:30:24,644 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:30:25,268 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:30:25,268 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:30:25.268112
+INFO: 2023-09-14 15:30:26,369 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:30:26,369 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:30:26.369009
+INFO: 2023-09-14 15:30:27,410 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:30:27,410 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:30:27.410895
+INFO: 2023-09-14 15:30:28,062 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:30:28,063 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:30:28.063004
+INFO: 2023-09-14 15:30:29,460 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:30:29,460 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:30:29.460876
+INFO: 2023-09-14 15:30:29,492 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:30:32,308 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s3-20020aa78d43000000b0068c62a45be6sm1025789pfe.179 - gsmtp')
+INFO: 2023-09-14 15:38:52,089 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:38:52,912 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:38:52,912 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:38:52.912169
+INFO: 2023-09-14 15:38:53,977 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:38:53,977 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:38:53.977816
+INFO: 2023-09-14 15:38:54,570 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:38:54,570 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:38:54.570612
+INFO: 2023-09-14 15:38:55,613 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:38:55,613 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:38:55.613091
+INFO: 2023-09-14 15:38:57,255 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:38:57,255 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:38:57.255563
+INFO: 2023-09-14 15:38:57,280 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:39:00,074 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials w16-20020a1709027b9000b001c3a8b135ebsm1184199pll.282 - gsmtp')
+INFO: 2023-09-14 15:48:20,067 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 15:48:21,015 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:48:21,015 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 15:48:21.015831
+INFO: 2023-09-14 15:48:21,921 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:48:21,921 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 15:48:21.921841
+INFO: 2023-09-14 15:48:22,912 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:48:22,912 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 15:48:22.912139
+INFO: 2023-09-14 15:48:24,311 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:48:24,311 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 15:48:24.311026
+INFO: 2023-09-14 15:48:25,896 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 15:48:25,896 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 15:48:25.896362
+INFO: 2023-09-14 15:48:25,942 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 15:48:28,932 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials k3-20020a170902694300b001bba373919bsm1197849plt.261 - gsmtp')
+INFO: 2023-09-14 16:15:14,838 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 16:15:15,360 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:15:15,360 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 16:15:15.360009
+INFO: 2023-09-14 16:15:15,930 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:15:15,930 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 16:15:15.930938
+INFO: 2023-09-14 16:15:16,414 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:15:16,415 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 16:15:16.415503
+INFO: 2023-09-14 16:15:17,713 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:15:17,713 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 16:15:17.713497
+INFO: 2023-09-14 16:15:19,044 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:15:19,045 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 16:15:19.045003
+INFO: 2023-09-14 16:15:19,060 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 16:15:21,950 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d21-20020aa78695000000b0068fcca719a4sm1075558pfo.102 - gsmtp')
+INFO: 2023-09-14 16:20:14,572 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 16:20:15,174 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:20:15,174 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 16:20:15.174236
+INFO: 2023-09-14 16:20:15,792 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:20:15,792 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 16:20:15.792975
+INFO: 2023-09-14 16:20:16,537 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:20:16,538 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 16:20:16.538823
+INFO: 2023-09-14 16:20:17,638 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:20:17,638 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 16:20:17.638541
+INFO: 2023-09-14 16:20:18,842 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:20:18,842 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 16:20:18.842068
+INFO: 2023-09-14 16:20:18,859 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 16:20:21,739 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o18-20020a170902779200b001b7cbc5871csm1291085pll.53 - gsmtp')
+INFO: 2023-09-14 16:25:52,085 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 16:25:52,707 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:25:52,708 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 16:25:52.708613
+INFO: 2023-09-14 16:25:53,388 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:25:53,388 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 16:25:53.388799
+INFO: 2023-09-14 16:25:54,119 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:25:54,119 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 16:25:54.119802
+INFO: 2023-09-14 16:25:55,130 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:25:55,131 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 16:25:55.131740
+INFO: 2023-09-14 16:25:56,193 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 16:25:56,193 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 16:25:56.193145
+INFO: 2023-09-14 16:25:56,210 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 16:25:59,225 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials k6-20020aa790c6000000b0069028bdd24dsm1095308pfk.34 - gsmtp')
+INFO: 2023-09-14 17:10:18,174 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 17:10:18,898 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:10:18,899 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 17:10:18.899925
+INFO: 2023-09-14 17:10:19,512 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:10:19,512 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 17:10:19.512954
+INFO: 2023-09-14 17:10:20,250 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:10:20,250 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 17:10:20.250244
+INFO: 2023-09-14 17:10:21,250 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:10:21,250 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 17:10:21.250731
+INFO: 2023-09-14 17:10:22,296 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:10:22,296 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 17:10:22.296516
+INFO: 2023-09-14 17:10:22,313 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 17:10:25,414 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials c16-20020aa78e10000000b00682669dc19bsm1164973pfr.201 - gsmtp')
+INFO: 2023-09-14 17:12:23,876 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 17:12:24,875 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:12:24,875 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 17:12:24.875417
+INFO: 2023-09-14 17:12:25,494 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:12:25,494 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 17:12:25.494318
+INFO: 2023-09-14 17:12:26,080 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:12:26,080 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 17:12:26.080456
+INFO: 2023-09-14 17:12:27,117 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:12:27,117 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 17:12:27.117051
+INFO: 2023-09-14 17:12:27,875 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:12:27,875 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 17:12:27.875746
+INFO: 2023-09-14 17:12:27,890 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 17:12:30,877 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e1-20020a17090301c100b001b8953365aesm1388243plh.22 - gsmtp')
+INFO: 2023-09-14 17:13:00,575 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 17:13:01,558 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:13:01,558 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 17:13:01.558948
+INFO: 2023-09-14 17:13:02,199 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:13:02,199 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 17:13:02.199538
+INFO: 2023-09-14 17:13:02,775 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:13:02,775 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 17:13:02.775434
+INFO: 2023-09-14 17:13:03,777 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:13:03,777 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 17:13:03.777145
+INFO: 2023-09-14 17:13:05,073 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:13:05,073 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 17:13:05.073734
+INFO: 2023-09-14 17:13:05,090 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 17:13:08,050 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials b3-20020a170902b60300b001bbb8d5166bsm1389519pls.123 - gsmtp')
+INFO: 2023-09-14 17:16:59,600 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 17:17:00,472 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:17:00,474 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 17:17:00.474515
+INFO: 2023-09-14 17:17:01,164 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:17:01,164 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 17:17:01.164813
+INFO: 2023-09-14 17:17:02,458 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:17:02,458 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 17:17:02.458874
+INFO: 2023-09-14 17:17:03,752 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:17:03,752 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 17:17:03.752365
+INFO: 2023-09-14 17:17:05,082 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 17:17:05,082 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 17:17:05.082996
+INFO: 2023-09-14 17:17:05,101 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 17:17:07,971 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m1-20020a170902d18100b001b7f40a8959sm1393150plb.76 - gsmtp')
+INFO: 2023-09-14 19:54:20,941 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 19:54:21,674 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 19:54:21,674 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 19:54:21.674681
+INFO: 2023-09-14 19:54:22,323 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 19:54:22,323 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 19:54:22.323637
+INFO: 2023-09-14 19:54:23,701 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 19:54:23,701 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 19:54:23.701268
+INFO: 2023-09-14 19:54:25,022 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 19:54:25,022 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 19:54:25.022548
+INFO: 2023-09-14 19:54:26,450 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 19:54:26,450 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-14 19:54:26.450801
+INFO: 2023-09-14 19:54:26,467 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 19:54:30,143 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials f93-20020a17090a706600b0026fa1931f66sm1529977pjk.9 - gsmtp')
+INFO: 2023-09-14 21:59:17,532 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 21:59:18,215 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 21:59:18,215 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 21:59:18.215243
+INFO: 2023-09-14 21:59:19,013 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 21:59:19,013 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 21:59:19.013075
+INFO: 2023-09-14 21:59:19,757 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 21:59:19,757 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 21:59:19.757054
+INFO: 2023-09-14 21:59:21,163 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 21:59:21,163 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 21:59:21.163307
+INFO: 2023-09-14 21:59:23,413 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 21:59:23,413 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-14 21:59:23.413316
+INFO: 2023-09-14 21:59:23,428 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 21:59:27,357 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 19-20020a17090a001300b00263f5ac814esm3627693pja.38 - gsmtp')
+INFO: 2023-09-14 22:35:31,381 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 22:35:32,007 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:35:32,007 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 22:35:32.007527
+INFO: 2023-09-14 22:35:32,680 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:35:32,680 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 22:35:32.680341
+INFO: 2023-09-14 22:35:33,316 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:35:33,316 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 22:35:33.316002
+INFO: 2023-09-14 22:35:34,397 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:35:34,404 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 22:35:34.404403
+INFO: 2023-09-14 22:35:35,829 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:35:35,829 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-14 22:35:35.829198
+INFO: 2023-09-14 22:35:35,863 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 22:35:39,815 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials x13-20020aa784cd000000b00687494a59bfsm1572644pfn.61 - gsmtp')
+INFO: 2023-09-14 22:55:06,640 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 22:55:07,121 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:55:07,121 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 22:55:07.121928
+INFO: 2023-09-14 22:55:07,751 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:55:07,751 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 22:55:07.751417
+INFO: 2023-09-14 22:55:08,777 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:55:08,777 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 22:55:08.777916
+INFO: 2023-09-14 22:55:09,820 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:55:09,820 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 22:55:09.820820
+INFO: 2023-09-14 22:55:11,206 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 22:55:11,206 | FILE: main.py:85 | MESSAGE: Order created with 126 on XLM at 2023-09-14 22:55:11.206918
+INFO: 2023-09-14 22:55:11,223 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 22:55:15,028 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials t6-20020a62ea06000000b006884549adc8sm1585129pfh.29 - gsmtp')
+INFO: 2023-09-14 23:52:46,582 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-14 23:52:47,057 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 23:52:47,057 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-14 23:52:47.057615
+INFO: 2023-09-14 23:52:48,110 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 23:52:48,110 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-14 23:52:48.110498
+INFO: 2023-09-14 23:52:48,747 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 23:52:48,747 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-14 23:52:48.747202
+INFO: 2023-09-14 23:52:49,778 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 23:52:49,778 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-14 23:52:49.778840
+INFO: 2023-09-14 23:52:51,170 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-14 23:52:51,170 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-14 23:52:51.170342
+INFO: 2023-09-14 23:52:51,197 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-14 23:52:55,088 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n3-20020a170902968300b001bdc5023783sm1902291plp.179 - gsmtp')
+INFO: 2023-09-15 00:08:10,828 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 00:08:11,595 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 00:08:11,595 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 00:08:11.595119
+INFO: 2023-09-15 00:08:12,380 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 00:08:12,380 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 00:08:12.380351
+INFO: 2023-09-15 00:08:13,009 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 00:08:13,009 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 00:08:13.009764
+INFO: 2023-09-15 00:08:14,053 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 00:08:14,053 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 00:08:14.053955
+INFO: 2023-09-15 00:08:15,484 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 00:08:15,484 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 00:08:15.484514
+INFO: 2023-09-15 00:08:15,523 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 00:08:22,094 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m7-20020a170902db0700b001b8a7e1b116sm1895798plx.191 - gsmtp')
+INFO: 2023-09-15 01:52:47,103 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 01:52:47,702 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:52:47,702 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 01:52:47.702901
+INFO: 2023-09-15 01:52:48,503 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:52:48,503 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 01:52:48.503630
+INFO: 2023-09-15 01:52:49,122 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:52:49,122 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 01:52:49.122434
+INFO: 2023-09-15 01:52:50,459 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:52:50,459 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 01:52:50.459463
+INFO: 2023-09-15 01:52:51,338 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:52:51,338 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-15 01:52:51.338773
+INFO: 2023-09-15 01:52:51,355 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 01:52:55,155 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials q20-20020a62ae14000000b0068fcc7f6b00sm1705777pff.74 - gsmtp')
+INFO: 2023-09-15 01:57:47,504 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 01:57:48,097 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:57:48,097 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 01:57:48.097761
+INFO: 2023-09-15 01:57:48,767 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:57:48,767 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 01:57:48.767259
+INFO: 2023-09-15 01:57:49,813 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:57:49,813 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 01:57:49.813899
+INFO: 2023-09-15 01:57:50,301 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:57:50,301 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 01:57:50.301547
+INFO: 2023-09-15 01:57:51,724 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 01:57:51,724 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-15 01:57:51.724206
+INFO: 2023-09-15 01:57:51,750 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 01:57:55,441 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials fk3-20020a056a003a8300b00687ce7c6540sm1760753pfb.99 - gsmtp')
+INFO: 2023-09-15 02:21:07,437 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 02:21:07,932 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 02:21:07,932 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 02:21:07.932499
+INFO: 2023-09-15 02:21:09,044 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 02:21:09,044 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 02:21:09.044294
+INFO: 2023-09-15 02:21:09,666 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 02:21:09,666 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 02:21:09.666606
+INFO: 2023-09-15 02:21:10,741 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 02:21:10,741 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 02:21:10.741516
+INFO: 2023-09-15 02:21:12,116 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 02:21:12,116 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-15 02:21:12.116508
+INFO: 2023-09-15 02:21:12,133 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 02:21:15,177 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u5-20020a17090282c500b001b892aac5c9sm1995991plz.298 - gsmtp')
+INFO: 2023-09-15 10:18:11,304 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 10:18:12,186 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:12,186 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 10:18:12.186343
+INFO: 2023-09-15 10:18:13,247 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:13,247 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 10:18:13.247669
+INFO: 2023-09-15 10:18:13,992 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:13,992 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 10:18:13.992881
+INFO: 2023-09-15 10:18:14,592 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:14,592 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 10:18:14.592850
+INFO: 2023-09-15 10:18:15,955 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:15,955 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 10:18:15.955215
+INFO: 2023-09-15 10:18:15,976 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 10:18:19,098 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u1-20020a170902e5c100b001b1a2c14a4asm2447876plf.38 - gsmtp')
+INFO: 2023-09-15 10:18:36,160 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 10:18:36,765 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:36,765 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 10:18:36.765491
+INFO: 2023-09-15 10:18:37,788 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:37,788 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 10:18:37.788016
+INFO: 2023-09-15 10:18:38,821 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:38,822 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 10:18:38.822328
+INFO: 2023-09-15 10:18:39,711 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:39,711 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 10:18:39.711566
+INFO: 2023-09-15 10:18:41,035 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:18:41,035 | FILE: main.py:85 | MESSAGE: Order created with 123 on XLM at 2023-09-15 10:18:41.035199
+INFO: 2023-09-15 10:18:41,052 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 10:18:44,655 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials c16-20020a17090aa61000b00268032f6a64sm3955313pjq.25 - gsmtp')
+INFO: 2023-09-15 10:20:32,250 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 10:20:33,044 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:20:33,044 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 10:20:33.044769
+INFO: 2023-09-15 10:20:33,910 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:20:33,910 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 10:20:33.910411
+INFO: 2023-09-15 10:20:34,865 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:20:34,865 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 10:20:34.865417
+INFO: 2023-09-15 10:20:35,718 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:20:35,718 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 10:20:35.718045
+INFO: 2023-09-15 10:20:36,584 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 10:20:36,584 | FILE: main.py:85 | MESSAGE: Order created with 123 on XLM at 2023-09-15 10:20:36.584818
+INFO: 2023-09-15 10:20:36,602 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 10:20:39,446 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials kg14-20020a170903060e00b001c41e1e9ca7sm1625268plb.215 - gsmtp')
+INFO: 2023-09-15 11:28:37,020 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:28:37,762 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:28:37,762 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:28:37.762594
+INFO: 2023-09-15 11:28:38,438 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:28:38,439 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:28:38.439249
+INFO: 2023-09-15 11:28:38,947 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:28:38,947 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:28:38.947428
+INFO: 2023-09-15 11:28:40,246 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:28:40,247 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:28:40.247560
+INFO: 2023-09-15 11:28:41,590 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:28:41,591 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:28:41.591353
+INFO: 2023-09-15 11:28:41,615 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:28:44,810 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n6-20020a170902968600b001bdcde49bc3sm2569515plp.119 - gsmtp')
+INFO: 2023-09-15 11:28:45,185 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 11:29:37,721 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:29:38,202 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:29:38,202 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:29:38.202703
+INFO: 2023-09-15 11:29:38,709 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:29:38,709 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:29:38.709642
+INFO: 2023-09-15 11:29:39,478 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:29:39,478 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:29:39.478237
+INFO: 2023-09-15 11:29:40,805 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:29:40,806 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:29:40.806516
+INFO: 2023-09-15 11:29:42,126 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:29:42,126 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:29:42.126703
+INFO: 2023-09-15 11:29:42,144 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:29:44,971 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d17-20020a170902ced100b001b8b26fa6c1sm2576785plg.115 - gsmtp')
+INFO: 2023-09-15 11:29:45,223 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 11:31:02,181 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:31:02,649 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:31:02,649 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:31:02.649707
+INFO: 2023-09-15 11:31:03,729 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:31:03,729 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:31:03.729406
+INFO: 2023-09-15 11:31:04,337 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:31:04,337 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:31:04.337253
+INFO: 2023-09-15 11:31:05,798 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:31:05,798 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:31:05.798332
+INFO: 2023-09-15 11:31:07,136 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:31:07,136 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:31:07.136660
+INFO: 2023-09-15 11:31:07,157 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:31:09,986 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials u8-20020a170902e80800b001c3267ae314sm2585427plg.156 - gsmtp')
+INFO: 2023-09-15 11:32:42,584 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:32:43,236 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:32:43,236 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:32:43.236927
+INFO: 2023-09-15 11:32:43,903 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:32:43,903 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:32:43.903355
+INFO: 2023-09-15 11:32:44,643 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:32:44,643 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:32:44.643052
+INFO: 2023-09-15 11:32:45,646 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:32:45,646 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:32:45.646280
+INFO: 2023-09-15 11:32:46,971 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:32:46,971 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:32:46.971355
+INFO: 2023-09-15 11:32:46,991 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:32:50,509 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials 17-20020a17090a1a5100b00271c5811019sm2445522pjl.38 - gsmtp')
+INFO: 2023-09-15 11:38:57,627 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:38:58,216 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:38:58,216 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:38:58.216263
+INFO: 2023-09-15 11:38:59,004 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:38:59,004 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:38:59.004110
+INFO: 2023-09-15 11:38:59,613 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:38:59,613 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:38:59.613764
+INFO: 2023-09-15 11:39:00,678 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:39:00,678 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:39:00.678119
+INFO: 2023-09-15 11:39:02,013 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:39:02,013 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:39:02.013158
+INFO: 2023-09-15 11:39:02,032 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:39:05,256 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials j15-20020a633c0f000000b00565009a97f0sm2043189pga.17 - gsmtp')
+ERROR: 2023-09-15 11:51:08,417 | FILE: multi.py:179 | MESSAGE: 
+1 Failed download:
+ERROR: 2023-09-15 11:51:08,418 | FILE: multi.py:191 | MESSAGE: ["['TATAMOTORS.NS']-USD"]: Exception("%ticker%: No timezone found, symbol may be delisted")
+INFO: 2023-09-15 11:51:08,441 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:51:09,037 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:51:09,037 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:51:09.037559
+INFO: 2023-09-15 11:51:09,677 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:51:09,677 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:51:09.677870
+INFO: 2023-09-15 11:51:10,285 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:51:10,286 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:51:10.286812
+INFO: 2023-09-15 11:51:11,314 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:51:11,315 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:51:11.315704
+INFO: 2023-09-15 11:51:11,845 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:51:11,845 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:51:11.845178
+INFO: 2023-09-15 11:51:11,865 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:51:14,707 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p21-20020aa78615000000b006889348ba6asm2250208pfn.81 - gsmtp')
+INFO: 2023-09-15 11:51:14,938 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 11:59:10,260 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 11:59:11,022 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:59:11,022 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 11:59:11.022107
+INFO: 2023-09-15 11:59:12,069 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:59:12,070 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 11:59:12.070169
+INFO: 2023-09-15 11:59:12,685 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:59:12,685 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 11:59:12.685247
+INFO: 2023-09-15 11:59:13,724 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:59:13,724 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 11:59:13.724836
+INFO: 2023-09-15 11:59:14,229 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 11:59:14,229 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 11:59:14.229528
+INFO: 2023-09-15 11:59:14,256 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 11:59:17,355 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials o10-20020a170902d4ca00b001bf3bdbceb5sm2642492plg.134 - gsmtp')
+INFO: 2023-09-15 11:59:17,681 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 12:33:20,820 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 12:33:21,436 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:33:21,436 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:33:21.436348
+INFO: 2023-09-15 12:33:21,916 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:33:21,916 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:33:21.916759
+INFO: 2023-09-15 12:33:22,830 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:33:22,830 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:33:22.830444
+INFO: 2023-09-15 12:33:23,852 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:33:23,852 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:33:23.852963
+INFO: 2023-09-15 12:33:24,909 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:33:24,909 | FILE: main.py:85 | MESSAGE: Order created with 125 on XLM at 2023-09-15 12:33:24.909471
+INFO: 2023-09-15 12:33:24,935 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:33:27,893 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p6-20020a170902a40600b001bf00317a49sm2734475plq.104 - gsmtp')
+INFO: 2023-09-15 12:33:28,133 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 12:36:16,326 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 12:36:16,955 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:36:16,955 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:36:16.955939
+INFO: 2023-09-15 12:36:17,445 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:36:17,445 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:36:17.445867
+INFO: 2023-09-15 12:36:17,935 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:36:17,935 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:36:17.935578
+INFO: 2023-09-15 12:36:18,959 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:36:18,960 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:36:18.960447
+INFO: 2023-09-15 12:36:20,160 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:36:20,161 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 12:36:20.161234
+INFO: 2023-09-15 12:36:20,180 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:36:23,022 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n10-20020a170902d2ca00b001bbf7fd354csm2721135plc.213 - gsmtp')
+INFO: 2023-09-15 12:36:23,238 | FILE: _backend_tk.py:1058 | MESSAGE: Could not load matplotlib icon: can't use "pyimage10" as iconphoto: not a photo image
+INFO: 2023-09-15 12:38:04,607 | FILE: main.py:144 | MESSAGE: working...
+INFO: 2023-09-15 12:38:05,371 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:38:05,371 | FILE: main.py:85 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:38:05.371691
+INFO: 2023-09-15 12:38:06,020 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:38:06,021 | FILE: main.py:85 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:38:06.020511
+INFO: 2023-09-15 12:38:07,040 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:38:07,040 | FILE: main.py:85 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:38:07.040796
+INFO: 2023-09-15 12:38:08,070 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:38:08,070 | FILE: main.py:85 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:38:08.070260
+INFO: 2023-09-15 12:38:09,425 | FILE: main.py:71 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:38:09,425 | FILE: main.py:85 | MESSAGE: Order created with 124 on XLM at 2023-09-15 12:38:09.425653
+INFO: 2023-09-15 12:38:09,444 | FILE: main.py:89 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:38:12,229 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials a6-20020a170902ecc600b001b03cda6389sm2753338plh.10 - gsmtp')
+INFO: 2023-09-15 12:54:36,330 | FILE: main.py:146 | MESSAGE: working...
+INFO: 2023-09-15 12:54:36,955 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:54:36,955 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:54:36.955646
+INFO: 2023-09-15 12:54:37,597 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:54:37,597 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:54:37.597623
+INFO: 2023-09-15 12:54:38,494 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:54:38,494 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:54:38.494468
+INFO: 2023-09-15 12:54:39,547 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:54:39,547 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:54:39.547287
+INFO: 2023-09-15 12:54:40,578 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:54:40,579 | FILE: main.py:86 | MESSAGE: Order created with 125 on XLM at 2023-09-15 12:54:40.579787
+INFO: 2023-09-15 12:54:40,603 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:54:43,476 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials mu13-20020a17090b388d00b0026596b8f33asm4191052pjb.40 - gsmtp')
+INFO: 2023-09-15 12:57:07,314 | FILE: main.py:146 | MESSAGE: working...
+INFO: 2023-09-15 12:57:08,078 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:57:08,078 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:57:08.078323
+INFO: 2023-09-15 12:57:10,196 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:57:10,196 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:57:10.196022
+INFO: 2023-09-15 12:57:10,827 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:57:10,828 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:57:10.828460
+INFO: 2023-09-15 12:57:11,439 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:57:11,440 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:57:11.440887
+INFO: 2023-09-15 12:57:12,777 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:57:12,777 | FILE: main.py:86 | MESSAGE: Order created with 125 on XLM at 2023-09-15 12:57:12.777274
+INFO: 2023-09-15 12:57:12,797 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:57:15,728 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m1-20020a056a00164100b00690397fdd9bsm1752069pfc.190 - gsmtp')
+INFO: 2023-09-15 12:58:27,005 | FILE: main.py:146 | MESSAGE: working...
+INFO: 2023-09-15 12:58:27,589 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:58:27,590 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-15 12:58:27.590413
+INFO: 2023-09-15 12:58:28,228 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:58:28,228 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-15 12:58:28.228557
+INFO: 2023-09-15 12:58:28,851 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:58:28,852 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-15 12:58:28.851955
+INFO: 2023-09-15 12:58:29,872 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:58:29,872 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-15 12:58:29.872510
+INFO: 2023-09-15 12:58:31,203 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 12:58:31,203 | FILE: main.py:86 | MESSAGE: Order created with 124 on XLM at 2023-09-15 12:58:31.203383
+INFO: 2023-09-15 12:58:31,223 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 12:58:34,029 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m2-20020a170902768200b001acae9734c0sm2757485pll.266 - gsmtp')
+INFO: 2023-09-15 13:18:15,931 | FILE: main.py:151 | MESSAGE: working...
+INFO: 2023-09-15 13:18:16,429 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 13:18:16,429 | FILE: main.py:86 | MESSAGE: Order created with 0 on BTC at 2023-09-15 13:18:16.429094
+INFO: 2023-09-15 13:18:17,505 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 13:18:17,506 | FILE: main.py:86 | MESSAGE: Order created with 0 on ETH at 2023-09-15 13:18:17.506401
+INFO: 2023-09-15 13:18:18,272 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 13:18:18,272 | FILE: main.py:86 | MESSAGE: Order created with 3 on DOT at 2023-09-15 13:18:18.272950
+INFO: 2023-09-15 13:18:19,576 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 13:18:19,576 | FILE: main.py:86 | MESSAGE: Order created with 0 on SOL at 2023-09-15 13:18:19.576807
+INFO: 2023-09-15 13:18:20,422 | FILE: main.py:72 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 13:18:20,422 | FILE: main.py:86 | MESSAGE: Order created with 125 on XLM at 2023-09-15 13:18:20.422792
+INFO: 2023-09-15 13:18:20,442 | FILE: main.py:90 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 13:18:23,272 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials y6-20020a17090322c600b001bc5dc0cd75sm2817163plg.180 - gsmtp')
+INFO: 2023-09-15 14:50:41,421 | FILE: main.py:147 | MESSAGE: working...
+INFO: 2023-09-15 14:50:42,022 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:50:42,023 | FILE: main.py:87 | MESSAGE: Order created with 0 on BTC at 2023-09-15 14:50:42.023251
+INFO: 2023-09-15 14:50:42,792 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:50:42,792 | FILE: main.py:87 | MESSAGE: Order created with 0 on ETH at 2023-09-15 14:50:42.792092
+INFO: 2023-09-15 14:50:43,826 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:50:43,826 | FILE: main.py:87 | MESSAGE: Order created with 3 on DOT at 2023-09-15 14:50:43.826512
+INFO: 2023-09-15 14:50:45,139 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:50:45,140 | FILE: main.py:87 | MESSAGE: Order created with 0 on SOL at 2023-09-15 14:50:45.140678
+INFO: 2023-09-15 14:50:46,278 | FILE: main.py:73 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:50:46,278 | FILE: main.py:87 | MESSAGE: Order created with 125 on XLM at 2023-09-15 14:50:46.278759
+INFO: 2023-09-15 14:50:46,312 | FILE: main.py:91 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 14:50:50,142 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials ge13-20020a17090b0e0d00b00262e485156esm4422825pjb.57 - gsmtp')
+INFO: 2023-09-15 14:54:19,184 | FILE: main.py:148 | MESSAGE: working...
+INFO: 2023-09-15 14:54:19,776 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:54:19,776 | FILE: main.py:88 | MESSAGE: Order created with 0 on BTC at 2023-09-15 14:54:19.776570
+INFO: 2023-09-15 14:54:20,438 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:54:20,438 | FILE: main.py:88 | MESSAGE: Order created with 0 on ETH at 2023-09-15 14:54:20.438389
+INFO: 2023-09-15 14:54:21,495 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:54:21,495 | FILE: main.py:88 | MESSAGE: Order created with 3 on DOT at 2023-09-15 14:54:21.495457
+INFO: 2023-09-15 14:54:22,525 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:54:22,525 | FILE: main.py:88 | MESSAGE: Order created with 0 on SOL at 2023-09-15 14:54:22.525843
+INFO: 2023-09-15 14:54:23,932 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:54:23,933 | FILE: main.py:88 | MESSAGE: Order created with 125 on XLM at 2023-09-15 14:54:23.933959
+INFO: 2023-09-15 14:54:23,959 | FILE: main.py:92 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 14:54:26,861 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials s24-20020aa78298000000b0068be348e35fsm2596769pfm.166 - gsmtp')
+INFO: 2023-09-15 14:56:11,211 | FILE: main.py:148 | MESSAGE: working...
+INFO: 2023-09-15 14:56:11,931 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:11,931 | FILE: main.py:88 | MESSAGE: Order created with 0 on BTC at 2023-09-15 14:56:11.931403
+INFO: 2023-09-15 14:56:12,580 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:12,580 | FILE: main.py:88 | MESSAGE: Order created with 0 on ETH at 2023-09-15 14:56:12.580921
+INFO: 2023-09-15 14:56:13,642 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:13,642 | FILE: main.py:88 | MESSAGE: Order created with 3 on DOT at 2023-09-15 14:56:13.642602
+INFO: 2023-09-15 14:56:14,951 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:14,952 | FILE: main.py:88 | MESSAGE: Order created with 0 on SOL at 2023-09-15 14:56:14.952159
+INFO: 2023-09-15 14:56:16,088 | FILE: main.py:148 | MESSAGE: working...
+INFO: 2023-09-15 14:56:16,324 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:16,325 | FILE: main.py:88 | MESSAGE: Order created with 125 on XLM at 2023-09-15 14:56:16.325306
+INFO: 2023-09-15 14:56:16,367 | FILE: main.py:92 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+INFO: 2023-09-15 14:56:17,359 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:17,359 | FILE: main.py:88 | MESSAGE: Order created with 0 on BTC at 2023-09-15 14:56:17.359952
+INFO: 2023-09-15 14:56:19,052 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:19,052 | FILE: main.py:88 | MESSAGE: Order created with 0 on ETH at 2023-09-15 14:56:19.052511
+ERROR: 2023-09-15 14:56:19,328 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials r8-20020a62e408000000b0068790c41ca2sm2602416pfh.27 - gsmtp')
+INFO: 2023-09-15 14:56:20,139 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:20,139 | FILE: main.py:88 | MESSAGE: Order created with 3 on DOT at 2023-09-15 14:56:20.139691
+INFO: 2023-09-15 14:56:21,695 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:21,695 | FILE: main.py:88 | MESSAGE: Order created with 0 on SOL at 2023-09-15 14:56:21.695363
+INFO: 2023-09-15 14:56:22,389 | FILE: main.py:74 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 14:56:22,390 | FILE: main.py:88 | MESSAGE: Order created with 125 on XLM at 2023-09-15 14:56:22.390511
+INFO: 2023-09-15 14:56:22,462 | FILE: main.py:92 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 14:56:25,483 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h14-20020a170902680e00b001b9be3b94d3sm3070847plk.140 - gsmtp')
+INFO: 2023-09-15 15:14:29,912 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:14:30,915 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:14:30,916 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:14:30.916689
+INFO: 2023-09-15 15:14:31,545 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:14:31,546 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:14:31.545496
+INFO: 2023-09-15 15:14:32,159 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:14:32,159 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:14:32.159776
+INFO: 2023-09-15 15:14:33,326 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:14:33,326 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:14:33.326229
+INFO: 2023-09-15 15:14:34,802 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:14:34,803 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:14:34.803981
+INFO: 2023-09-15 15:14:34,825 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:14:38,482 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials p15-20020a62ab0f000000b00682a27905b9sm2729365pff.13 - gsmtp')
+INFO: 2023-09-15 15:31:03,722 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:31:04,463 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:04,463 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:31:04.463873
+INFO: 2023-09-15 15:31:05,127 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:05,128 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:31:05.128757
+INFO: 2023-09-15 15:31:05,751 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:05,751 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:31:05.751078
+INFO: 2023-09-15 15:31:06,780 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:06,780 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:31:06.780511
+INFO: 2023-09-15 15:31:07,858 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:07,858 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:31:07.858794
+INFO: 2023-09-15 15:31:07,879 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:31:10,815 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials m17-20020aa78a11000000b00687260020b1sm2669695pfa.72 - gsmtp')
+INFO: 2023-09-15 15:31:13,468 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:31:14,097 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:14,097 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:31:14.097150
+INFO: 2023-09-15 15:31:14,970 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:14,970 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:31:14.970118
+INFO: 2023-09-15 15:31:16,285 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:16,285 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:31:16.285795
+INFO: 2023-09-15 15:31:17,048 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:17,048 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:31:17.048309
+INFO: 2023-09-15 15:31:18,509 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:18,509 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:31:18.509343
+INFO: 2023-09-15 15:31:18,534 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:31:21,665 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials je1-20020a170903264100b001bb99ea5d02sm3109093plb.4 - gsmtp')
+INFO: 2023-09-15 15:31:47,554 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:31:48,140 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:48,140 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:31:48.140618
+INFO: 2023-09-15 15:31:48,781 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:48,782 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:31:48.782931
+INFO: 2023-09-15 15:31:49,600 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:49,601 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:31:49.601239
+INFO: 2023-09-15 15:31:51,154 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:51,155 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:31:51.154147
+INFO: 2023-09-15 15:31:52,351 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:31:52,351 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:31:52.351195
+INFO: 2023-09-15 15:31:52,374 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:31:55,199 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d21-20020aa78695000000b006889511ab14sm2654586pfo.37 - gsmtp')
+INFO: 2023-09-15 15:34:51,170 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:34:51,921 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:34:51,921 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:34:51.921499
+INFO: 2023-09-15 15:34:52,961 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:34:52,961 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:34:52.961036
+INFO: 2023-09-15 15:35:18,545 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:35:19,130 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:35:19,130 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:35:19.130477
+INFO: 2023-09-15 15:35:19,692 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:35:19,692 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:35:19.692837
+INFO: 2023-09-15 15:35:20,297 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:35:20,297 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:35:20.297097
+INFO: 2023-09-15 15:35:21,709 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:35:21,710 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:35:21.710944
+INFO: 2023-09-15 15:35:22,878 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:35:22,879 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:35:22.878233
+INFO: 2023-09-15 15:35:22,901 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:35:25,690 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials h7-20020a170902704700b001aaf2e8b1eesm3095087plt.248 - gsmtp')
+INFO: 2023-09-15 15:37:45,191 | FILE: main.py:138 | MESSAGE: working...
+INFO: 2023-09-15 15:37:45,781 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:37:45,781 | FILE: main.py:78 | MESSAGE: Order created with 0 on BTC at 2023-09-15 15:37:45.781343
+INFO: 2023-09-15 15:37:46,854 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:37:46,854 | FILE: main.py:78 | MESSAGE: Order created with 0 on ETH at 2023-09-15 15:37:46.854486
+INFO: 2023-09-15 15:37:47,874 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:37:47,874 | FILE: main.py:78 | MESSAGE: Order created with 3 on DOT at 2023-09-15 15:37:47.874216
+INFO: 2023-09-15 15:37:48,893 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:37:48,893 | FILE: main.py:78 | MESSAGE: Order created with 0 on SOL at 2023-09-15 15:37:48.893701
+INFO: 2023-09-15 15:37:49,990 | FILE: main.py:64 | MESSAGE: PLACING TEST ORDER
+INFO: 2023-09-15 15:37:49,990 | FILE: main.py:78 | MESSAGE: Order created with 124 on XLM at 2023-09-15 15:37:49.990658
+INFO: 2023-09-15 15:37:50,018 | FILE: main.py:82 | MESSAGE: DCA complete, bought ['BTC', 'ETH', 'DOT', 'SOL', 'XLM']. Waiting 7 days.
+ERROR: 2023-09-15 15:37:52,996 | FILE: email_service.py:25 | MESSAGE: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials j10-20020a170902c3ca00b001bc0f974117sm3130341plj.57 - gsmtp')
